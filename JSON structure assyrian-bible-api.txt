@@ -1,0 +1,51 @@
+Json format for api
+bible/assyrian-bible/books/ot/1/1/1
+(genesis chapter 1 verse 1)
+
+  /books
+  [listOfAllBooksNT&OT]
+  /books/nt
+  [listOfAllBooksNT]
+  /books/ot
+  [listOfAllBooksOT]
+
+
+
+Structure
+
+Folder
+JSON data
+
+/bible/assyrian-bible
+assyrian-bible.Json
+{
+  id: versionCode
+  code: versionCode,
+  version: versionName,
+  languageEn: languageNameEn,
+  languageAs: languageNameAs,
+  description: descriptionText,
+  testament: new/old,
+},
+  /books/{ot/nt}/bookName
+  bookName.json 
+  {
+    numberEn: bookNumberEn,
+    numberAS: bookNumberAS
+    bookNameEn: bookNameEn,
+    bookNameAs: bookNameAs,
+  },
+    /chapterNumber
+    chapterNumber.json
+    {
+      chapterNumberEn: "Chapter " + chapterNumberEn,
+      chapternumberAs: ChapterNumberAs + " :ܩܦܠܐܘܢ",
+      verses: [
+        {
+          verseNumberEn: verseNumberEn,
+          verseNumberAs: verseNumberAs,
+          verseText: Versetext,
+          verseNotes: []
+        }
+      ]
+    }
