@@ -10,4 +10,4 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api@main/assyrian-bible.json
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/genesis.json
 
 ### Get chapter
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api@main/books/ot/genesis/chapter/1.json
+https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api@latest/books/ot/genesis/chapter/1.json
