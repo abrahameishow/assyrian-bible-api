@@ -16,7 +16,7 @@ Structure
 Folder
 JSON data
 
-/bible/assyrian-bible
+assyrian-bible-api
 assyrian-bible.Json
 {
   id: versionCode
@@ -35,7 +35,7 @@ assyrian-bible.Json
     bookNameEn: bookNameEn,
     bookNameAs: bookNameAs,
   },
-    /chapterNumber
+    /chapter/chapterNumber
     chapterNumber.json
     {
       chapterNumberEn: "Chapter " + chapterNumberEn,
