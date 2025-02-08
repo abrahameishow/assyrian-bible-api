@@ -27,25 +27,31 @@ assyrian-bible.Json
   description: descriptionText,
   testament: new/old,
 },
-  /books/{ot/nt}/bookName
-  bookName.json 
+  /books/{ot/nt}
+  testament.json
   {
-    numberEn: bookNumberEn,
-    numberAS: bookNumberAS
-    bookNameEn: bookNameEn,
-    bookNameAs: bookNameAs,
+    testamentEn: testamentNameEn,
+    testamentAs: testamentNameAs
   },
-    /chapter/chapterNumber
-    chapterNumber.json
+    /books/{ot/nt}/bookName
+    bookName.json 
     {
-      chapterNumberEn: "Chapter " + chapterNumberEn,
-      chapternumberAs: ChapterNumberAs + " :ܩܦܠܐܘܢ",
-      verses: [
-        {
-          verseNumberEn: verseNumberEn,
-          verseNumberAs: verseNumberAs,
-          verseText: Versetext,
-          verseNotes: []
-        }
-      ]
-    }
+      numberEn: bookNumberEn,
+      numberAS: bookNumberAS
+      bookNameEn: bookNameEn,
+      bookNameAs: bookNameAs,
+    },
+      /chapter/chapterNumber
+      chapterNumber.json
+      {
+        chapterNumberEn: "Chapter " + chapterNumberEn,
+        chapternumberAs: ChapterNumberAs + " :ܩܦܠܐܘܢ",
+        verses: [
+          {
+            verseNumberEn: verseNumberEn,
+            verseNumberAs: verseNumberAs,
+            verseText: Versetext,
+            verseNotes: []
+          }
+        ]
+      }
