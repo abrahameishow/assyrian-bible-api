@@ -1,20 +1,18 @@
-Json format for api
-bible/assyrian-bible/books/ot/1/1/1
-(genesis chapter 1 verse 1)
+JSON FORMAT FOR API CALL
 
-  /books
-  [listOfAllBooksNT&OT]
-  /books/nt
-  [listOfAllBooksNT]
-  /books/ot
-  [listOfAllBooksOT]
+(GET) assyrian-bible-api/books/ot/genesis/1
+(Gets genesis chapter 1)
 
+(GET) assyrian-bible-api/books
+(Gets all books in old and new testament)
 
+(GET) assyrian-bible-api/books/nt
+(Gets all books in the new testament)
 
-Structure
+(GET) assyrian-bible-api/books/ot
+(Gets all books in the old testament)
 
-Folder
-JSON data
+JSON DATA FOLDER STRUCTURE
 
 assyrian-bible-api
 assyrian-bible.Json
