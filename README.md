@@ -3,10 +3,10 @@
 ##
 This is an api for the assyrian bible version (aii)
 
-### Get Book
+### Get Bible
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api@main/assyrian-bible.json
 
-### Get Chapter
+### Get Book
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/genesis.json
 
 ### Get Verses
