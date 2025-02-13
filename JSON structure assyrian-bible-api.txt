@@ -38,6 +38,7 @@ assyrian-bible.Json
       numberAS: bookNumberAS
       bookNameEn: bookNameEn,
       bookNameAs: bookNameAs,
+      chapters: [1,2,3,4 ...]
     },
       /chapter/chapterNumber
       chapterNumber.json
