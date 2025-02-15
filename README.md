@@ -11,3 +11,10 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/genesis
 
 ### Get Chapter
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/chapter/1.json
+
+**Based on the chapter number**
+- For example get chapter 2 of Genesis by changing the number before .json to number 2
+
+```
+https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/chapter/2.json
+```
