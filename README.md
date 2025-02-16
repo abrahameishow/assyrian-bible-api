@@ -10,17 +10,15 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/assyrian-bible.json
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api@main/books/ot/testament.json
 
 **Based on folder letters**
-- To get the information and books for the testament you want just change the folder letters before the /testament.json
+- To get the information and books for the testament you want just change the folder letters before the /testament.json 
 
-
-- **Old Testament**
+**Old Testament**
 ```
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/testament.json
 ```
-
-- **New Testament**
+**New Testament**
 ```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/testament.json
+https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/nt/testament.json
 ```
 
 ### Get Book
