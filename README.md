@@ -1,5 +1,7 @@
-# Bible API in the Assyrian Language (Work in progress)
-* **Some links may not work**
+# Bible API in the Assyrian Language (AII)
+###
+**WORK IN PROGRESS**
+- **SOME LINKS MAY NOT WORK**
 ##
 ### Get Bible
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/assyrian-bible.json
