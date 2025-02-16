@@ -1,17 +1,16 @@
-# assyrian-bible-api (Old testament & New Testament)
-
+# Bible API in the Assyrian Language (Work in progress)
+* **Some links may not work**
 ##
-This is an api for the assyrian bible version (aii)
-
 ### Get Bible
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/assyrian-bible.json
 
+##
 ### Get Testament
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api@main/books/ot/testament.json
+https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/testament.json
 
 **Based on folder letters**
-- To get the information and books for the testament you want just change the folder letters before the /testament.json 
-
+- To get the information and books for the testament you want just change the folder letters before the /testament.json
+###
 **Old Testament**
 ```
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/testament.json
@@ -20,10 +19,10 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/testament.json
 ```
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/nt/testament.json
 ```
-
+##
 ### Get Book
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/genesis.json
-
+##
 ### Get Chapter
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/chapter/1.json
 
