@@ -1,4 +1,162 @@
 {
     "testamentEn": "Old testament",
-    "testamentAs": "ܟܬܒܼ̈ܐ ܕܕܝܬܩܐ ܥܬܝܩܬܐ"
+    "testamentAs": "ܟܬܒܼ̈ܐ ܕܕܝܬܩܐ ܥܬܝܩܬܐ",
+    "books": [
+        {
+            "bookNameEn": "genesis",
+            "bookNameAs": "ܣܦܪܐ ܕܒܪܝܬܐ."
+        },
+        {
+            "bookNameEn": "exodus",
+            "bookNameAs": "ܣܦܪܐ ܕܡܼܦܩܢܐ."
+        },
+        {
+            "bookNameEn": "leviticus",
+            "bookNameAs": "ܣܦܪܐ ܕܟܗܢ̈ܐ."
+        },
+        {
+            "bookNameEn": "numbers",
+            "bookNameAs": "ܣܦܪܐ ܕܡܢܝܢܐ."
+        },
+        {
+            "bookNameEn": "deuteronomy",
+            "bookNameAs": "ܬܢܝܢ ܢܡܘܣܐ."
+        },
+        {
+            "bookNameEn": "joshua",
+            "bookNameAs": "ܝܫܘܥ ܒܪܢܘܢ."
+        },
+        {
+            "bookNameEn": "judges",
+            "bookNameAs": "ܕܝܢ̈ܐ."
+        },
+        {
+            "bookNameEn": "ܺruth",
+            "bookNameAs": "ܪܥܘܬ."
+        },
+        {
+            "bookNameEn": "1samuel",
+            "bookNameAs": "ܐ. ܫܡܘܐܝܠ."
+        },
+        {
+            "bookNameEn": "2samuel",
+            "bookNameAs": "ܒ. ܫܡܘܐܝܠ."
+        },
+        {
+            "bookNameEn": "1kings",
+            "bookNameAs": "ܐ. ܡܠܟ̈ܐ."
+        },
+        {
+            "bookNameEn": "2kings",
+            "bookNameAs": "ܒ. ܡܠܟ̈ܐ."
+        },
+        {
+            "bookNameEn": "1chronicles",
+            "bookNameAs": "ܐ. ܕܒܪܝܡܝܢ."
+        },
+        {
+            "bookNameEn": "2chronicles",
+            "bookNameAs": "ܒ. ܕܒܪܝܡܝܢ."
+        },
+        {
+            "bookNameEn": "ezra",
+            "bookNameAs": "ܥܙܪܐ."
+        },
+        {
+            "bookNameEn": "nehemiah",
+            "bookNameAs": "ܢܚܡܝܐ."
+        },
+        {
+            "bookNameEn": "esther",
+            "bookNameAs": "ܐܣܬܝܪ."
+        },
+        {
+            "bookNameEn": "job",
+            "bookNameAs": "ܐܝܘܒܼ."
+        },
+        {
+            "bookNameEn": "psalms",
+            "bookNameAs": "ܡܙܡܘܪ̈ܐ."
+        },
+        {
+            "bookNameEn": "proverbs",
+            "bookNameAs": "ܡܬ̈ܠܐ."
+        },
+        {
+            "bookNameEn": "ecclesiastes",
+            "bookNameAs": "ܩܘܗܠܬ."
+        },
+        {
+            "bookNameEn": "songofsongs",
+            "bookNameAs": "ܬܫܒܚܬ ܬܫܒܚ̈ܬܐ."
+        },
+        {
+            "bookNameEn": "isaiah",
+            "bookNameAs": "ܐܫܥܝܐ."
+        },
+        {
+            "bookNameEn": "jeremiah",
+            "bookNameAs": "ܐܪܡܝܐ."
+        },
+        {
+            "bookNameEn": "lamentations",
+            "bookNameAs": "ܐܘܠܝܬ̈ܐ."
+        },
+        {
+            "bookNameEn": "ezekiel",
+            "bookNameAs": "ܚܙܩܝܐܝܠ."
+        },
+        {
+            "bookNameEn": "daniel",
+            "bookNameAs": "ܕܢܝܐܝܠ."
+        },
+        {
+            "bookNameEn": "hosea",
+            "bookNameAs": "ܗܘܫܥ."
+        },
+        {
+            "bookNameEn": "joel",
+            "bookNameAs": "ܝܘܐܝܠ."
+        },
+        {
+            "bookNameEn": "amos",
+            "bookNameAs": "ܥܡܘܣ."
+        },
+        {
+            "bookNameEn": "obadiah",
+            "bookNameAs": "ܥܘܒܕܝܐ."
+        },
+        {
+            "bookNameEn": "jonah",
+            "bookNameAs": "ܝܘܢܢ."
+        },
+        {
+            "bookNameEn": "micah",
+            "bookNameAs": "ܡܝܟܼܐ."
+        },
+        {
+            "bookNameEn": "nahum",
+            "bookNameAs": "ܢܚܘܡ."
+        },
+        {
+            "bookNameEn": "habakkuk",
+            "bookNameAs": "ܚܒܼܩܘܩ."
+        },
+        {
+            "bookNameEn": "zephaniah",
+            "bookNameAs": "ܨܦܢܝܐ."
+        },
+        {
+            "bookNameEn": "haggai",
+            "bookNameAs": "ܚܓܝ."
+        },
+        {
+            "bookNameEn": "zechariah",
+            "bookNameAs": "ܙܟܼܪܝܐ."
+        },
+        {
+            "bookNameEn": "malachi",
+            "bookNameAs": "ܡܠܐܟܼܝ."
+        }
+    ]
 }
