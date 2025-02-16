@@ -29,7 +29,14 @@ assyrian-bible.Json
   testament.json
   {
     testamentEn: testamentNameEn,
-    testamentAs: testamentNameAs
+    testamentAs: testamentNameAs,
+    books: [
+      {
+        bookNameEn: genesis,
+        bookNameAs: ܣܦܪܐ ܕܒܪܝܬܐ.
+      },
+      ...
+    ]
   },
     /books/{ot/nt}/bookName
     bookName.json 
@@ -38,7 +45,13 @@ assyrian-bible.Json
       numberAS: bookNumberAS
       bookNameEn: bookNameEn,
       bookNameAs: bookNameAs,
-      chapters: [1,2,3,4 ...]
+      chapters: [
+        {
+          chapterNumberEn: 1,
+          chapterNumberAs: ܐ
+        },
+        ...
+      ]
     },
       /chapter/chapterNumber
       chapterNumber.json
