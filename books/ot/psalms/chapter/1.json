@@ -1,10 +1,8 @@
 {
 	"chapterEn": "Psalms 1",
 	"chapterAs": "ܡܙܡܘܪ̈ܐ: ܐ.",
+	"bookInfoAs": "ܣܸܦܪܵܐ ܩܲܕܡܵܝܵܐ (ܡܙܡܘܪ̈ܐ ܐ - ܡܐ)",
 	"verses": [
-		{
-			"verseText": "ܣܸܦܪܵܐ ܩܲܕܡܵܝܵܐ (ܡܙܡܘܪ̈ܐ ܐ - ܡܐ)"
-		},
 		{
 			"verseNumberEn": "1",
 			"verseNumberAs": "ܐ",
