@@ -1,0 +1,276 @@
+{
+	"testamentEn": "New testament",
+	"testamentAs": "ܟܬܒܼ̈ܐ ܕܕܝܬܩܐ ܚܕܬܐ",
+	"books": [
+		{
+			"bookNameEn": "mattew",
+			"bookNameAs": "ܡܬܝ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "mark",
+			"bookNameAs": "ܡܪܩܘܣ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "luke",
+			"bookNameAs": "ܠܘܩܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "john",
+			"bookNameAs": "ܝܘܚܢܢ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "acts",
+			"bookNameAs": "ܦܪܟܣܝܣ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "romans",
+			"bookNameAs": "ܪ̈ܗܘܡܝܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "1corinthians",
+			"bookNameAs": "ܐ. ܩܘܪ̈ܢܬܝܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "2corinthians",
+			"bookNameAs": "ܒ. ܩܘܪ̈ܢܬܝܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "galatians",
+			"bookNameAs": "ܓܠܛܝ̈ܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "ephesians",
+			"bookNameAs": "ܐܦܣܝ̈ܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "philippians",
+			"bookNameAs": "ܦܝܠܝܦܣܝ̈ܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "colossians",
+			"bookNameAs": "ܩܘܠܣܝ̈ܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "1thessalonians",
+			"bookNameAs": "ܐ. ܬܣܠܘܢܝܩܝ̈ܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "2thessalonians",
+			"bookNameAs": "ܒ. ܬܣܠܘܢܝܩܝ̈ܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "1timothy",
+			"bookNameAs": "ܐ. ܛܝܡܬܐܘܣ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "2timothy",
+			"bookNameAs": "ܒ. ܛܝܡܬܐܘܣ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "titus",
+			"bookNameAs": "ܛܛܘܣ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "philemon",
+			"bookNameAs": "ܦܝܠܡܘܢ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "hebrews",
+			"bookNameAs": "ܥܒܼܪ̈ܝܐ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "james",
+			"bookNameAs": "ܝܥܩܘܒܼ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "1peter",
+			"bookNameAs": "ܐ. ܦܛܪܘܣ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "2peter",
+			"bookNameAs": "ܒ. ܦܛܪܘܣ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "1john",
+			"bookNameAs": "ܐ. ܝܘܚܢܢ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "2john",
+			"bookNameAs": "ܒ. ܝܘܚܢܢ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "3john",
+			"bookNameAs": "ܓ. ܝܘܚܢܢ.",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "jude",
+			"bookNameAs": "ܝܗܘܕܐ",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		},
+		{
+			"bookNameEn": "revelation",
+			"bookNameAs": "ܓܠܝܢܐ",
+			"chapters": [
+				{
+					"en": "",
+					"as": ""
+				}
+			]
+		}
+	]
+}
