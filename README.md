@@ -59,11 +59,12 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
 
 ### API DATA STRUCTURE
 
-```sh
-- BASE URL: https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api
+- BASE URL: **https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api**
 
-{BASE URL/assyrian-bible.json}
-- (GET) assyrian-bible.Json
+##
+
+(GET) {BASE URL/assyrian-bible.json}
+```sh
   {
     id: versionCode,
     code: versionCode,
@@ -73,9 +74,12 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
     description: descriptionText,
     testament: new/old,
   }
+```
 
-{BASE URL/assyrian-bible.json/books/{old/new}testament.json}
-- (GET) oldtestament.json or newtestament.json
+##
+
+(GET) {BASE URL/assyrian-bible.json/books/{old/new}testament.json}
+```sh
   {
     testamentEn: testamentNameEn,
     testamentAs: testamentNameAs,
@@ -87,9 +91,12 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
       ... All books in order
     ]
   }
+```
 
-{BASE URL/assyrian-bible.json/books/{ot/nt}/bookname.json}
-- (GET) bookname.json 
+##
+
+(GET) {BASE URL/assyrian-bible.json/books/{ot/nt}/bookname.json}
+```sh
   {
     numberEn: bookNumberEn,
     numberAS: bookNumberAS
@@ -103,9 +110,12 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
        ... All chapters in book
     ]
   }
+```
 
-{BASE URL/assyrian-bible.json/books/{ot/nt}/books/bookname/chapternumber.json}
-- (GET) chapterNumber.json
+##
+
+(GET) {BASE URL/assyrian-bible.json/books/{ot/nt}/books/bookname/chapternumber.json}
+```sh
   {
     chapterNumberEn: "Chapter " + chapterNumberEn,
     chapternumberAs: ChapterNumberAs + " :ܩܦܠܐܘܢ",
@@ -113,8 +123,8 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
       {
         verseNumberEn: verseNumberEn,
         verseNumberAs: verseNumberAs,
-        verseText: Versetext,
-        verseNotes: []
+        verseText: versetext,
+        verseNote: verseNote,
       },
       ... All verses in chapter
     ]
