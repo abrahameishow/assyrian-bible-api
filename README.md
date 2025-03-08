@@ -46,7 +46,7 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis.json
 
 ### CHAPTER
 
-- Based on **{bookname}.json** & **{chapternumber.json}**
+- Based on **{bookname}** & **{chapternumber.json}**
 - To get another chapter just change **1.json** to the chapter number you want for example **2.json**
 
 **GENESIS CHAPTER 1**
