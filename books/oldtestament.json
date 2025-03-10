@@ -1030,7 +1030,119 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -1196,7 +1308,94 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -1310,7 +1509,279 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "29",
+							"verseNumberAs": "ܟܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "30",
+							"verseNumberAs": "ܠ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "31",
+							"verseNumberAs": "ܠܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "32",
+							"verseNumberAs": "ܠܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "33",
+							"verseNumberAs": "ܠܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "34",
+							"verseNumberAs": "ܠܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "35",
+							"verseNumberAs": "ܠܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "36",
+							"verseNumberAs": "ܠܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "37",
+							"verseNumberAs": "ܠܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "38",
+							"verseNumberAs": "ܠܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "39",
+							"verseNumberAs": "ܠܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "40",
+							"verseNumberAs": "ܡ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "41",
+							"verseNumberAs": "ܡܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "42",
+							"verseNumberAs": "ܡܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "43",
+							"verseNumberAs": "ܡܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "44",
+							"verseNumberAs": "ܡܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "45",
+							"verseNumberAs": "ܡܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "46",
+							"verseNumberAs": "ܡܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "47",
+							"verseNumberAs": "ܡܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "48",
+							"verseNumberAs": "ܡܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "49",
+							"verseNumberAs": "ܡܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "50",
+							"verseNumberAs": "ܢ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "51",
+							"verseNumberAs": "ܢܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "52",
+							"verseNumberAs": "ܢܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "53",
+							"verseNumberAs": "ܢܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "54",
+							"verseNumberAs": "ܢܕ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -1460,7 +1931,239 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "29",
+							"verseNumberAs": "ܟܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "30",
+							"verseNumberAs": "ܠ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "31",
+							"verseNumberAs": "ܠܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "32",
+							"verseNumberAs": "ܠܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "33",
+							"verseNumberAs": "ܠܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "34",
+							"verseNumberAs": "ܠܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "35",
+							"verseNumberAs": "ܠܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "36",
+							"verseNumberAs": "ܠܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "37",
+							"verseNumberAs": "ܠܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "38",
+							"verseNumberAs": "ܠܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "39",
+							"verseNumberAs": "ܠܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "40",
+							"verseNumberAs": "ܡ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "41",
+							"verseNumberAs": "ܡܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "42",
+							"verseNumberAs": "ܡܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "43",
+							"verseNumberAs": "ܡܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "44",
+							"verseNumberAs": "ܡܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "45",
+							"verseNumberAs": "ܡܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "46",
+							"verseNumberAs": "ܡܘ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -1602,7 +2305,99 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -1704,7 +2499,189 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "29",
+							"verseNumberAs": "ܟܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "30",
+							"verseNumberAs": "ܠ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "31",
+							"verseNumberAs": "ܠܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "32",
+							"verseNumberAs": "ܠܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "33",
+							"verseNumberAs": "ܠܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "34",
+							"verseNumberAs": "ܠܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "35",
+							"verseNumberAs": "ܠܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "36",
+							"verseNumberAs": "ܠܘ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -1794,7 +2771,119 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -1816,7 +2905,149 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -1946,7 +3177,144 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2048,7 +3416,274 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "29",
+							"verseNumberAs": "ܟܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "30",
+							"verseNumberAs": "ܠ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "31",
+							"verseNumberAs": "ܠܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "32",
+							"verseNumberAs": "ܠܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "33",
+							"verseNumberAs": "ܠܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "34",
+							"verseNumberAs": "ܠܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "35",
+							"verseNumberAs": "ܠܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "36",
+							"verseNumberAs": "ܠܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "37",
+							"verseNumberAs": "ܠܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "38",
+							"verseNumberAs": "ܠܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "39",
+							"verseNumberAs": "ܠܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "40",
+							"verseNumberAs": "ܡ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "41",
+							"verseNumberAs": "ܡܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "42",
+							"verseNumberAs": "ܡܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "43",
+							"verseNumberAs": "ܡܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "44",
+							"verseNumberAs": "ܡܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "45",
+							"verseNumberAs": "ܡܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "46",
+							"verseNumberAs": "ܡܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "47",
+							"verseNumberAs": "ܡܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "48",
+							"verseNumberAs": "ܡܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "49",
+							"verseNumberAs": "ܡܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "50",
+							"verseNumberAs": "ܢ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "51",
+							"verseNumberAs": "ܢܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "52",
+							"verseNumberAs": "ܢܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "53",
+							"verseNumberAs": "ܢܓ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2142,7 +3777,99 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2248,7 +3975,279 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "29",
+							"verseNumberAs": "ܟܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "30",
+							"verseNumberAs": "ܠ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "31",
+							"verseNumberAs": "ܠܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "32",
+							"verseNumberAs": "ܠܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "33",
+							"verseNumberAs": "ܠܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "34",
+							"verseNumberAs": "ܠܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "35",
+							"verseNumberAs": "ܠܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "36",
+							"verseNumberAs": "ܠܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "37",
+							"verseNumberAs": "ܠܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "38",
+							"verseNumberAs": "ܠܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "39",
+							"verseNumberAs": "ܠܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "40",
+							"verseNumberAs": "ܡ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "41",
+							"verseNumberAs": "ܡܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "42",
+							"verseNumberAs": "ܡܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "43",
+							"verseNumberAs": "ܡܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "44",
+							"verseNumberAs": "ܡܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "45",
+							"verseNumberAs": "ܡܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "46",
+							"verseNumberAs": "ܡܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "47",
+							"verseNumberAs": "ܡܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "48",
+							"verseNumberAs": "ܡܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "49",
+							"verseNumberAs": "ܡܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "50",
+							"verseNumberAs": "ܢ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "51",
+							"verseNumberAs": "ܢܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "52",
+							"verseNumberAs": "ܢܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "53",
+							"verseNumberAs": "ܢܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "54",
+							"verseNumberAs": "ܢܕ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2370,7 +4369,94 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2520,7 +4606,64 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2566,7 +4709,64 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2624,7 +4824,119 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2670,7 +4982,119 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -2844,7 +5268,39 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": "ܛܘܼܒ݂ܵܐ ܠܐܢܵܫܵܐ ܕܒܡܸܠܟܵܐ ܕܒܝܼܫܹ̈ܐ ܠܵܐ ܚܕܝܼܪܹܗ, ܘܒܐܘܼܪܚܵܐ ܕܚܲܛܵܝܹ̈ܐ ܠܵܐ ܟܠܹܐ ܠܹܗ, ܘܒܡܵܘܬܒ݂ܵܐ ܕܡܲܣܚܸܪ̈ܵܢܹܐ ܠܵܐ ܝܬܝܼܒ݂ ܠܹܗ."
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": "ܐܸܠܵܐ ܒܢܵܡܘܿܣܵܐ ܕܡܵܪܝܵܐ ܝܠܹܗ ܒܘܼܣܵܡܹܗ, ܘܒܢܵܡܘܿܣܹܗ ܟܹܐ ܗܲܓܹܐ ܐܝܼܡܵܡܵܐ ܘܠܲܝܠܹܐ."
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": "ܒܸܬ ܗܵܘܹܐ ܐܲܝܟܼ ܐܝܼܠܵܢܵܐ ܫܬܝܼܠܵܐ ܥܲܠ ܫܵܩ̈ܝܼܵܬܹܐ ܕܡ̈ܝܼܵܐ, ܕܛܥܘܼܢܬܹܗ ܟܹܐ ܝܵܗܒܹܠ ܒܙܲܒܼܢܹܗ, ܘܛܲܪܦܹܗ ܠܹܐ ܢܵܬܹܪ, ܘܟܠ ܕܥܵܒܹܕ ܟܹܐ ܡܲܢܬܹܐ."
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": "ܠܹܐ ܝܢܵܐ ܗܵܕܟܼܵܐ ܒܝܼܫܹ̈ܐ, ܐܸܠܵܐ ܐܲܝܟܼ ܬܸܒܼܢܵܐ ܝܢܵܐ ܕܟܹܐ ܕܲܪܹܐ ܠܹܗ ܦܵܘܚܵܐ."
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": "ܒܘܼܬ ܐܵܗܵܐ, ܒܝܼܫܹ̈ܐ ܠܹܐ ܟܵܠܝܼ ܡܩܵܘܝܵܢܹ̈ܐ ܒܕܝܵܢܬܵܐ, ܐܵܦܠܵܐ ܚܲܛܵܝܹ̈ܐ ܒܟܢܘܼܫܝܵܐ ܕܙܲܕܝܼܩܹ̈ܐ."
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": "ܣܵܒܵܒ ܟܹܐ ܝܵܕܹܥ ܡܵܪܝܵܐ ܐܘܼܪܚܵܐ ܕܙܲܕܝܼܩܹ̈ܐ, ܐܝܼܢܵܐ ܐܘܼܪܚܵܐ ܕܒܝܼܫܹ̈ܐ ܒܸܬ ܛܵܠܩܵܐ."
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -3450,7 +5906,174 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "29",
+							"verseNumberAs": "ܟܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "30",
+							"verseNumberAs": "ܠ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "31",
+							"verseNumberAs": "ܠܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "32",
+							"verseNumberAs": "ܠܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "33",
+							"verseNumberAs": "ܠܓ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -3580,7 +6203,99 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -3634,7 +6349,94 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -3672,7 +6474,164 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "29",
+							"verseNumberAs": "ܟܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "30",
+							"verseNumberAs": "ܠ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "31",
+							"verseNumberAs": "ܠܐ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -3942,7 +6901,104 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4156,7 +7212,119 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4182,7 +7350,149 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "22",
+							"verseNumberAs": "ܟܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "23",
+							"verseNumberAs": "ܟܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "24",
+							"verseNumberAs": "ܟܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "25",
+							"verseNumberAs": "ܟܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "26",
+							"verseNumberAs": "ܟܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "27",
+							"verseNumberAs": "ܟܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "28",
+							"verseNumberAs": "ܟܚ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4380,7 +7690,114 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4434,7 +7851,64 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4496,7 +7970,109 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4514,7 +8090,84 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4556,7 +8209,114 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						}
+					]
 				}
 			]
 		},
@@ -4566,7 +8326,94 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4588,7 +8435,89 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4622,7 +8551,84 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4640,7 +8646,94 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4658,7 +8751,99 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4676,7 +8861,84 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4690,7 +8952,114 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "15",
+							"verseNumberAs": "ܝܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "16",
+							"verseNumberAs": "ܝܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "17",
+							"verseNumberAs": "ܝܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "18",
+							"verseNumberAs": "ܝܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "19",
+							"verseNumberAs": "ܝܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "20",
+							"verseNumberAs": "ܟ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "21",
+							"verseNumberAs": "ܟܐ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
@@ -4752,7 +9121,79 @@
 			"chapters": [
 				{
 					"en": "1",
-					"as": "ܐ"
+					"as": "ܐ",
+					"verses": [
+						{
+							"verseNumberEn": "1",
+							"verseNumberAs": "ܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "2",
+							"verseNumberAs": "ܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "3",
+							"verseNumberAs": "ܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "4",
+							"verseNumberAs": "ܕ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "5",
+							"verseNumberAs": "ܗ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "6",
+							"verseNumberAs": "ܘ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "7",
+							"verseNumberAs": "ܙ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "8",
+							"verseNumberAs": "ܚ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "9",
+							"verseNumberAs": "ܛ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "10",
+							"verseNumberAs": "ܝ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "11",
+							"verseNumberAs": "ܝܐ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "12",
+							"verseNumberAs": "ܝܒ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "13",
+							"verseNumberAs": "ܝܓ",
+							"verseText": ""
+						},
+						{
+							"verseNumberEn": "14",
+							"verseNumberAs": "ܝܕ",
+							"verseText": ""
+						}
+					]
 				},
 				{
 					"en": "2",
