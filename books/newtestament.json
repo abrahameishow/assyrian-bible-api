@@ -1,6 +1,6 @@
 {
 	"testamentEn": "New testament",
-	"testamentAs": "ܟܬܒܼ̈ܐ ܕܕܝܬܩܐ ܚܕܬܐ",
+	"testamentAs": "ܟܬܒ̣̈ܐ ܕܕܝܬܩܐ ܚܕܬܐ",
 	"books": [
 		{
 			"bookNameEn": "matthew",
@@ -3569,7 +3569,7 @@
 		},
 		{
 			"bookNameEn": "hebrews",
-			"bookNameAs": "ܥܒܼܪ̈ܝܐ.",
+			"bookNameAs": "ܥܒ̣ܪ̈ܝܐ.",
 			"chapters": [
 				{
 					"en": "1",
@@ -3699,7 +3699,7 @@
 		},
 		{
 			"bookNameEn": "james",
-			"bookNameAs": "ܝܥܩܘܒܼ.",
+			"bookNameAs": "ܝܥܩܘܒ̣.",
 			"chapters": [
 				{
 					"en": "1",
