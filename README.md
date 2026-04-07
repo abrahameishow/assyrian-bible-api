@@ -98,7 +98,7 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
 
 ##
 
-(GET) {BASE URL/assyrian-bible.json/books/{old/new}testament.json}
+(GET) {BASE URL}/books/{old/new}testament.json}
 ```sh
   {
     testamentEn: testamentNameEn,
@@ -115,11 +115,11 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
 
 ##
 
-(GET) {BASE URL/assyrian-bible.json/books/{ot/nt}/bookname.json}
+(GET) {BASE URL}/books/{ot/nt}/bookname.json}
 ```sh
   {
     numberEn: bookNumberEn,
-    numberAS: bookNumberAS
+    numberAs: bookNumberAs
     bookNameEn: bookNameEn,
     bookNameAs: bookNameAs,
     chapters: [
@@ -134,16 +134,18 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
 
 ##
 
-(GET) {BASE URL/assyrian-bible.json/books/{ot/nt}/books/bookname/chapternumber.json}
+(GET) {BASE URL}/books/{ot/nt}/books/bookname/chapternumber.json}
 ```sh
   {
     chapterNumberEn: "Chapter " + chapterNumberEn,
-    chapternumberAs: ChapterNumberAs + " :ܩܦܠܐܘܢ",
+    chapterNumberAs: ChapterNumberAs + " :ܩܦܠܐܘܢ",
     verses: [
       {
         verseNumberEn: verseNumberEn,
         verseNumberAs: verseNumberAs,
-        verseText: versetext,
+        subheadingAs: null,
+        verseText: verseText,
+        isRedLetter: false,
         verseNote: verseNote,
       },
       ... All verses in chapter
