@@ -1,10 +1,32 @@
-# ASSYRIAN BIBLE API
+## 1893 Syriac Bible Digitalization Project
+- A digital preservation and transcription of the 1893 Syriac (Assyrian) Bible, originally published in Urmia.
+- All text is encoded in UTF-8 Unicode to ensure compatibility across all modern operating systems and mobile devices.
 
-**WORK IN PROGRESS!**
+### Project Goal
+The objective of this repository is to provide a complete, accurate, and searchable Unicode text of the 1893 Syriac Bible. This edition is a landmark of 19th-century Neo-Aramaic literature, and this project serves to ensure its availability for scholars, linguists, and the global Assyrian community in a modern digital format.
 
-- **SOME LINKS MAY NOT WORK** 
+### Historical Context
+The 1893 Syriac Bible was a monumental publication, often associated with the mission press in Urmia. It represents a specific era of the language and serves as a vital bridge between classical ecclesiastical Syriac and the modern spoken dialects (Sureth) of the time.
 
-##
+### Digitization Status
+- Current Phase: Transcription/OCR Verification.
+- Source: Scanned images from the Boston Public Library / Archive.org.
+  - https://archive.org/details/syriacbible00lond
+
+### Repository Structure
+#### Complete books
+- books/oldtestament.json
+- books/newtestament.json
+#### Chapters
+- books/ot/old testament books (Books 1-39).
+- books/nt/new testament books (Books 1–27).
+
+### Legal & Licensing
+- This text was published in 1893 and is in the Public Domain.
+- Scripture Text: Unrestricted. No copyright is claimed on the underlying historical text.
+- Digital Transcription: This specific digital transcription is provided under the Creative Commons Zero (CC0) license, waiving all rights to the work worldwide under copyright law.
+
+## Get data
 
 ### BIBLE INFORMATION
 ```
