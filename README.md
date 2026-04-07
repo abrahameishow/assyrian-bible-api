@@ -86,13 +86,13 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
 (GET) {BASE URL/assyrian-bible.json}
 ```sh
   {
-    id: versionCode,
-    code: versionCode,
-    version: versionName,
-    languageEn: languageNameEn,
-    languageAs: languageNameAs,
-    description: descriptionText,
-    testament: new/old,
+    id: aii,
+    code: aii,
+    version: "Assyrian/Syriac",
+    languageEn: "Suret",
+    languageAs: "ܣܘܪܝܬ",
+    description: "This is the Assyrian version of the bible",
+    testament: "Old Testament & New Testament",
   }
 ```
 
@@ -101,8 +101,8 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
 (GET) {BASE URL}/books/{old/new}testament.json}
 ```sh
   {
-    testamentEn: testamentNameEn,
-    testamentAs: testamentNameAs,
+    testamentEn: "Old testament",
+    testamentAs: "ܟܬܒ̣̈ܐ ܕܕܝܬܩܐ ܥܬܝܩܬܐ",
     books: [
       {
         bookNameEn: genesis,
@@ -118,14 +118,14 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
 (GET) {BASE URL}/books/{ot/nt}/bookname.json}
 ```sh
   {
-    numberEn: bookNumberEn,
-    numberAs: bookNumberAs
-    bookNameEn: bookNameEn,
-    bookNameAs: bookNameAs,
+    numberEn: "1", - Canonical order of the book in standard numbers
+    numberAs: "ܐ", - Canonical order of the book in syriac numbers
+    bookNameEn: "genesis",
+    bookNameAs: "ܣܦܪܐ ܕܒܪܝܬܐ.",
     chapters: [
       {
-        chapterNumberEn: 1,
-        chapterNumberAs: ܐ
+        en: 1,
+        as: ܐ
       },
        ... All chapters in book
     ]
@@ -137,14 +137,14 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
 (GET) {BASE URL}/books/{ot/nt}/books/bookname/chapternumber.json}
 ```sh
   {
-    chapterNumberEn: "Chapter " + chapterNumberEn,
-    chapterNumberAs: ChapterNumberAs + " :ܩܦܠܐܘܢ",
+    chapterEn: "Chapter 1",
+    chapterAs: "ܩܦܠܐܘܢ؛ ܐ",
     verses: [
       {
-        verseNumberEn: verseNumberEn,
-        verseNumberAs: verseNumberAs,
+        verseNumberEn: 1,
+        verseNumberAs: "ܐ",
         subheadingAs: null,
-        verseText: verseText,
+        verseText: "ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ",
         isRedLetter: false,
         verseNote: verseNote,
       },
