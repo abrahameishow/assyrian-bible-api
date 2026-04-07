@@ -21,7 +21,6 @@ The 1893 Syriac Bible was a monumental publication, often associated with the mi
 ### Legal & Licensing
 This text was published in 1893 and is in the Public Domain.
 - **Scripture Text:** Unrestricted. No copyright is claimed on the underlying historical text.
-- **Digital Transcription:** This specific digital transcription is provided under the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) license, waiving all rights to the work worldwide under copyright law.
 
 ## Get data (API Access)
 **Base URL:** https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api
