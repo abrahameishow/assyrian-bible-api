@@ -9,81 +9,27 @@ The objective of this repository is to provide a complete, accurate, and searcha
 The 1893 Syriac Bible was a monumental publication, often associated with the mission press in Urmia. It represents a specific era of the language and serves as a vital bridge between classical ecclesiastical Syriac and the modern spoken dialects (Sureth) of the time.
 
 ### Digitization Status
-- Current Phase: Transcription/OCR Verification.
-- Source: Scanned images from the Boston Public Library / Archive.org.
-  - https://archive.org/details/syriacbible00lond
+- **Current Phase:** Transcription/OCR Verification.
+- **Source:** Scanned images from the [Boston Public Library / Archive.org](https://archive.org/details/syriacbible00lond).
 
 ### Repository Structure
-#### Complete books
-- books/oldtestament.json
-- books/newtestament.json
-#### Chapters
-- books/ot/old testament books (Books 1-39).
-- books/nt/new testament books (Books 1–27).
+- **books/oldtestament.json:** Metadata for the Old Testament.
+- **books/newtestament.json:** Metadata for the New Testament.
+- **books/ot/:** Individual JSON files for Old Testament books (1–39).
+- **books/nt/:** Individual JSON files for New Testament books (1–27).
 
 ### Legal & Licensing
-- This text was published in 1893 and is in the Public Domain.
-- Scripture Text: Unrestricted. No copyright is claimed on the underlying historical text.
-- Digital Transcription: This specific digital transcription is provided under the Creative Commons Zero (CC0) license, waiving all rights to the work worldwide under copyright law.
+This text was published in 1893 and is in the Public Domain.
+- **Scripture Text:** Unrestricted. No copyright is claimed on the underlying historical text.
+- **Digital Transcription:** This specific digital transcription is provided under the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) license, waiving all rights to the work worldwide under copyright law.
 
-## Get data
+## Get data (API Access)
+**Base URL:** https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api
 
-### BIBLE INFORMATION
+#### 1. Bible information
 ```
 https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/assyrian-bible.json
 ```
-
-##
-
-### OLD TESTAMENT
-
-```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/oldtestament.json
-```
-
-##
-
-### NEW TESTAMENT
-```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/newtestament.json
-```
-
-##
-
-### BOOK
-
-- Based on **{bookname}.json**
-- To get another book, just change **genesis.json** to the book you want for example **exodus.json**
-
-###
-
-**GENESIS**
-
-```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis.json
-```
-##
-
-### CHAPTER
-
-- Based on **{bookname}** & **{chapternumber.json}**
-- To get another chapter just change **1.json** to the chapter number you want for example **2.json**
-
-**GENESIS CHAPTER 1**
-
-```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
-```
-
-##
-
-### API DATA STRUCTURE
-
-- BASE URL: **https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api**
-
-##
-
-(GET) {BASE URL/assyrian-bible.json}
 ```sh
   {
     id: aii,
@@ -96,9 +42,10 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
   }
 ```
 
-##
-
-(GET) {BASE URL}/books/{old/new}testament.json}
+#### 2. Testament metadata
+```
+https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/oldtestament.json
+```
 ```sh
   {
     testamentEn: "Old testament",
@@ -113,9 +60,10 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
   }
 ```
 
-##
-
-(GET) {BASE URL}/books/{ot/nt}/bookname.json}
+#### 3. Individual Book Data
+```
+https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis.json
+```
 ```sh
   {
     numberEn: "1", - Canonical order of the book in standard numbers
@@ -131,10 +79,10 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
     ]
   }
 ```
-
-##
-
-(GET) {BASE URL}/books/{ot/nt}/books/bookname/chapternumber.json}
+#### 4. Chapter content
+```
+https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
+```
 ```sh
   {
     chapterEn: "Chapter 1",
@@ -152,5 +100,3 @@ https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
     ]
   }
 ```
-
-##
