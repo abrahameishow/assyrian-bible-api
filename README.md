@@ -27,76 +27,68 @@ This text was published in 1893 and is in the Public Domain.
 **Base URL:** https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api
 
 #### 1. Bible information
-```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/assyrian-bible.json
-```
+`GET {BASE URL}/assyrian-bible.json`
 ```sh
-  {
-    id: aii,
-    code: aii,
-    version: "Assyrian/Syriac",
-    languageEn: "Suret",
-    languageAs: "ܣܘܪܝܬ",
-    description: "This is the Assyrian version of the bible",
-    testament: "Old Testament & New Testament",
-  }
+{
+  "id": "aii",
+  "code": "aii",
+  "version": "Assyrian/Syriac",
+  "languageEn": "Suret",
+  "languageAs": "ܣܘܪܝܬ",
+  "description": "This is the Assyrian version of the bible",
+  "testament": "Old Testament & New Testament"
+}
 ```
 
 #### 2. Testament metadata
-```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/oldtestament.json
-```
+`GET {BASE URL}/books/oldtestament.json`
 ```sh
-  {
-    testamentEn: "Old testament",
-    testamentAs: "ܟܬܒ̣̈ܐ ܕܕܝܬܩܐ ܥܬܝܩܬܐ",
-    books: [
-      {
-        bookNameEn: genesis,
-        bookNameAs: ܣܦܪܐ ܕܒܪܝܬܐ.
-      },
-      ... All books in order
-    ]
-  }
+{
+  "testamentEn": "Old testament",
+  "testamentAs": "ܟܬܒ̣̈ܐ ܕܕܝܬܩܐ ܥܬܝܩܬܐ",
+  "books": [
+    {
+      "bookNameEn": "genesis",
+      "bookNameAs": "ܣܦܪܐ ܕܒܪܝܬܐ."
+    },
+    ... All books in order
+  ]
+}
 ```
 
 #### 3. Individual Book Data
-```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis.json
-```
+`GET {BASE URL}/books/ot/genesis.json`
 ```sh
-  {
-    numberEn: "1", - Canonical order of the book in standard numbers
-    numberAs: "ܐ", - Canonical order of the book in syriac numbers
-    bookNameEn: "genesis",
-    bookNameAs: "ܣܦܪܐ ܕܒܪܝܬܐ.",
-    chapters: [
-      {
-        en: 1,
-        as: ܐ
-      },
-       ... All chapters in book
-    ]
-  }
+{
+  "numberEn": "1",
+  "numberAs": "ܐ",
+  "bookNameEn": "genesis",
+  "bookNameAs": "ܣܦܪܐ ܕܒܪܝܬܐ.",
+  "chapters": [
+    {
+      "en": "1",
+      "as": "ܐ"
+    },
+     ... All chapters in book
+  ]
+}
 ```
 #### 4. Chapter content
-```
-https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api/books/ot/genesis/1.json
-```
+`GET {BASE URL}/books/ot/genesis/1.json`
 ```sh
-  {
-    chapterEn: "Chapter 1",
-    chapterAs: "ܩܦܠܐܘܢ؛ ܐ",
-    verses: [
-      {
-        verseNumberEn: 1,
-        verseNumberAs: "ܐ",
-        subheadingAs: null,
-        verseText: "ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ",
-        isRedLetter: false,
-        verseNote: verseNote,
-      },
-      ... All verses in chapter
-    ]
-  }
+{
+  "chapterEn": "Chapter 1",
+  "chapterAs": "ܩܦܠܐܘܢ؛ ܐ",
+  "verses": [
+    {
+      "verseNumberEn": "1",
+      "verseNumberAs": "ܐ",
+      "subheadingAs": "",
+      "verseText": "ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ",
+      "isRedLetter": false,
+      "verseNote": "",
+    },
+    ... All verses in chapter
+  ]
+}
 ```
