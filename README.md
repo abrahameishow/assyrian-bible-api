@@ -11,6 +11,17 @@ The 1893 Syriac Bible was a monumental publication, often associated with the mi
 ### Digitization Status
 - **Current Phase:** Transcription/OCR Verification.
 - **Source:** Scanned images from the [Boston Public Library / Archive.org](https://archive.org/details/syriacbible00lond).
+- **Book-by-Book Status:**
+  
+  - **Old Testament**
+    - 🟢 Genesis
+    - 🟢 Malachi
+    - 🟡 Exodus (In Progress...)
+    - 🟡 Psalms (In Progress...)
+      
+  - **New Testament**
+    - 🟢 Philemon
+    - 🟢 Jude
 
 ### Repository Structure
 - **books/oldtestament.json:** Metadata for the Old Testament.
