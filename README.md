@@ -2,13 +2,13 @@
 - A digital preservation and transcription of the 1893 Syriac (Assyrian) Bible, originally published in Urmia.
 - All text is encoded in UTF-8 Unicode to ensure compatibility across all modern operating systems and mobile devices.
 
-### Project Goal
+### 🎯 Project Goal
 The objective of this repository is to provide a complete, accurate, and searchable Unicode text of the 1893 Syriac Bible. This edition is a landmark of 19th-century Neo-Aramaic literature, and this project serves to ensure its availability for scholars, linguists, and the global Assyrian community in a modern digital format.
 
-### Historical Context
+### 📜 Historical Context
 The 1893 Syriac Bible was a monumental publication, often associated with the mission press in Urmia. It represents a specific era of the language and serves as a vital bridge between classical ecclesiastical Syriac and the modern spoken dialects (Sureth) of the time.
 
-### Digitization Status
+### 📈 Digitization Status
 - **Current Phase:** Transcription/OCR Verification.
 - **Source:** Scanned images from the [Boston Public Library / Archive.org](https://archive.org/details/syriacbible00lond).
 - **Book-by-Book Status:**
@@ -22,19 +22,39 @@ The 1893 Syriac Bible was a monumental publication, often associated with the mi
   - **New Testament**
     - 🟢 Philemon
     - 🟢 Jude
+   
+## 🚀 Getting Started
+The **assyrian-bible-api** is a static, serverless API. You do not need an API key, an account, or a complex backend setup to use it. All data is served via **jsDelivr**, a global CDN that ensures the JSON files are delivered quickly to your users.
 
-### Repository Structure
+#### Integration Example
+You can pull data directly into your web or mobile application using a simple `fetch` request. Here is a quick example of how to retrieve the first verse of Genesis in JavaScript:
+
+```javascript
+const BASE_URL = 'https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api';
+
+async function getFirstVerse() {
+  const response = await fetch(`${BASE_URL}/books/ot/genesis/1.json`);
+  const data = await response.json();
+  
+  // This will log: ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ
+  console.log(data.verses[0].verseText);
+}
+
+getFirstVerse();
+```
+
+### 🛠 Repository Structure
 - **books/oldtestament.json:** Metadata for the Old Testament.
 - **books/newtestament.json:** Metadata for the New Testament.
 - **books/ot/:** Individual JSON files for Old Testament books (1–39).
 - **books/nt/:** Individual JSON files for New Testament books (1–27).
 
-### Legal & Licensing
+### ⚖️ Legal & Licensing
 This text was published in 1893 and is in the Public Domain.
 - **Scripture Text:** This text was originally published in 1893 and is in the Public Domain. Use of the underlying historical text is unrestricted.
 - **​Digital Edition & API:** The digital transcription, JSON data structures, and organizational code in this repository are licensed under the MIT License.
 
-## Get data (API Access)
+## 📡 API Access (Endpoints)
 **Base URL:** https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api
 
 #### 1. Bible information
@@ -103,21 +123,3 @@ This text was published in 1893 and is in the Public Domain.
   ]
 }
 ```
-## Getting Started
-The **assyrian-bible-api** is a static, serverless API. You do not need an API key, an account, or a complex backend setup to use it. All data is served via **jsDelivr**, a global CDN that ensures the JSON files are delivered quickly to your users.
-
-### Integration Example
-You can pull data directly into your web or mobile application using a simple `fetch` request. Here is a quick example of how to retrieve the first verse of Genesis in JavaScript:
-
-```javascript
-const BASE_URL = 'https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api';
-
-async function getFirstVerse() {
-  const response = await fetch(`${BASE_URL}/books/ot/genesis/1.json`);
-  const data = await response.json();
-  
-  // This will log: ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ
-  console.log(data.verses[0].verseText);
-}
-
-getFirstVerse();
