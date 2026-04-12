@@ -103,3 +103,21 @@ This text was published in 1893 and is in the Public Domain.
   ]
 }
 ```
+## Getting Started
+The **assyrian-bible-api** is a static, serverless API. You do not need an API key, an account, or a complex backend setup to use it. All data is served via **jsDelivr**, a global CDN that ensures the JSON files are delivered quickly to your users.
+
+### Integration Example
+You can pull data directly into your web or mobile application using a simple `fetch` request. Here is a quick example of how to retrieve the first verse of Genesis in JavaScript:
+
+```javascript
+const BASE_URL = 'https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api';
+
+async function getFirstVerse() {
+  const response = await fetch(`${BASE_URL}/books/ot/genesis/1.json`);
+  const data = await response.json();
+  
+  // This will log: ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ
+  console.log(data.verses[0].verseText);
+}
+
+getFirstVerse();
