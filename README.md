@@ -1,5 +1,5 @@
-## 1893 Syriac Bible Digitalization Project
-- A digital preservation and transcription of the 1893 Syriac (Assyrian) Bible, originally published in Urmia.
+## 1893 Modern Syriac (Assyrian) Bible Digitalization Project
+- A digital preservation and transcription of the 1893 Modern Syriac (Assyrian) Bible, originally published in Urmia.
 - All text is encoded in UTF-8 Unicode to ensure compatibility across all modern operating systems and mobile devices.
 
 ### 🎯 Project Goal
