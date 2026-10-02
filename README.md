@@ -15,9 +15,11 @@ The 1893 Syriac Bible was a monumental publication, often associated with the mi
   
   - **Old Testament**
     - 🟢 Genesis
-    - 🟢 Malachi
     - 🟢 Exodus
     - 🟡 Psalms (In Progress...)
+    - 🟡 Jona (In Progress...)
+    - 🟢 Malachi
+
       
   - **New Testament**
     - 🟢 Philemon
