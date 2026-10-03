@@ -57,7 +57,7 @@ This text was published in 1893 and is in the Public Domain.
 - **​Digital Edition & API:** The digital transcription, JSON data structures, and organizational code in this repository are licensed under the MIT License.
 
 ## 📡 API Access (Endpoints)
-**Base URL:** https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api
+**Base URL:** https://cdn.jsdelivr.net/gh/abrahameishow/assyrian-bible-api/
 
 #### 1. Bible information
 `GET {BASE URL}/assyrian-bible.json`
