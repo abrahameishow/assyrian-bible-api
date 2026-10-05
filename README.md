@@ -32,7 +32,7 @@ The **assyrian-bible-api** is a static, serverless API. You do not need an API k
 You can pull data directly into your web or mobile application using a simple `fetch` request. Here is a quick example of how to retrieve the first verse of Genesis in JavaScript:
 
 ```javascript
-const BASE_URL = 'https://cdn.jsdelivr.net/gh/Abrei852/assyrian-bible-api';
+const BASE_URL = 'https://cdn.jsdelivr.net/gh/abrahameishow/assyrian-bible-api';
 
 async function getFirstVerse() {
   const response = await fetch(`${BASE_URL}/books/ot/genesis/1.json`);
