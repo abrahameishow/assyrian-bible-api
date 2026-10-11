@@ -108,6 +108,8 @@ This text was published in 1893 and is in the Public Domain.
 }
 ```
 #### 4. Chapter content
+
+- #### Old testament
 `GET {BASE URL}/books/ot/genesis/1.json`
 ```sh
 {
@@ -117,8 +119,24 @@ This text was published in 1893 and is in the Public Domain.
     {
       "verseNumberEn": "1",
       "verseNumberAs": "ܐ",
-      "subheadingAs": "",
-      "verseText": "ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ",
+      "verseText": "ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ.",
+      "verseNote": "",
+    },
+    ... All verses in chapter
+  ]
+}
+```
+- #### New testament
+`GET {BASE URL}/books/nt/mathew/1.json`
+```sh
+{
+  "chapterEn": "Chapter 1",
+  "chapterAs": "ܩܦܠܐܘܢ؛ ܐ",
+  "verses": [
+    {
+      "verseNumberEn": "1",
+      "verseNumberAs": "ܐ",
+      "verseText": "ܟܬܵܒ̣ܵܐ ܕܝܼܠܝܼܕܘܼܬܹܗ ܕܝܼܫܘܿܥ ܡܫܝܼܚܵܐ: ܒܪܘܼܢܹܗ ܕܕܵܘܝܼܕ: ܒܪܘܼܢܹܗ ܕܐܲܒ̣ܪܵܗܵܡ.",
       "isRedLetter": false,
       "verseNote": "",
     },
@@ -126,3 +144,4 @@ This text was published in 1893 and is in the Public Domain.
   ]
 }
 ```
+
