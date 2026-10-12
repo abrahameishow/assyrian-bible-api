@@ -16,13 +16,14 @@ The 1893 Syriac Bible was a monumental publication, often associated with the mi
   - **Old Testament**
     - 🟢 Genesis
     - 🟢 Exodus
-    - 🟡 Ruth (In Progress...)
+    - 🟢 Ruth
     - 🟡 Psalms (In Progress...)
     - 🟢 Jona
     - 🟢 Malachi
 
       
   - **New Testament**
+    - 🟡 Matthew (In Progress...)
     - 🟢 Philemon
     - 🟢 Jude
    
