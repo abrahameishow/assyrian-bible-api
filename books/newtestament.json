@@ -4,7 +4,7 @@
 	"books": [
 		{
 			"bookNameEn": "matthew",
-			"bookNameAs": "ܡܬܝ.",
+			"bookNameAs": "ܟܪܘܙܘܬܐ ܕܡܬܝ.",
 			"chapters": [
 				{
 					"en": "1",
@@ -249,7 +249,7 @@
 		},
 		{
 			"bookNameEn": "mark",
-			"bookNameAs": "ܡܪܩܘܣ.",
+			"bookNameAs": "ܟܪܘܙܘܬܐ ܡܪܩܘܣ.",
 			"chapters": [
 				{
 					"en": "1",
@@ -546,7 +546,7 @@
 		},
 		{
 			"bookNameEn": "luke",
-			"bookNameAs": "ܠܘܩܐ.",
+			"bookNameAs": "ܟܪܘܙܘܬܐ ܠܘܩܐ.",
 			"chapters": [
 				{
 					"en": "1",
@@ -1050,7 +1050,7 @@
 		},
 		{
 			"bookNameEn": "john",
-			"bookNameAs": "ܝܘܚܢܢ.",
+			"bookNameAs": "ܟܪܘܙܘܬܐ ܝܘܚܢܢ.",
 			"chapters": [
 				{
 					"en": "1",
