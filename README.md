@@ -121,6 +121,7 @@ This text was published in 1893 and is in the Public Domain.
       "verseNumberEn": "1",
       "verseNumberAs": "ܐ",
       "verseText": "ܒܪܵܫܝܼܬ ܒܪܹܠܹܐ ܐܲܠܵܗܵܐ ܠܫܡܲܝܵܐ ܘܠܲܐܪܥܵܐ.",
+      "isRedLetter": false,
       "verseNote": "",
     },
     ... All verses in chapter
