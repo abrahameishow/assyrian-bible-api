@@ -1,68 +1,91 @@
 {
-    "chapterIntroAs": "ܠܪܹܫܵܐ ܕܙܵܡܵܪܹ̈ܐ: ܠܢܚܝܼܠܘܿܬ. ܡܲܙܡܘܿܪܵܐ ܕܕܵܘܝܼܕ.",
-    "chapterEn": "Psalm 5",
-    "chapterAs": "ܡܙܡܘܪܐ: ܗ.",
-    "verses": [
-        {
-            "verseNumberEn": "1",
-            "verseNumberAs": "ܐ",
-            "verseText": "ܠܗܹܡܸܙܡܵܢܝܼ̈ ܗܲܒ݇ܠ ܢܵܬܵܐ: ܝܵܐ ܡܵܪܝܵܐ: \nܦܲܪܡܝܼ ܗܵܓܵܝܬܝܼ."
-        },
-        {
-            "verseNumberEn": "2",
-            "verseNumberAs": "ܒ",
-            "verseText": "ܡܲܨܝܸܬ ܠܩܵܠܵܐ ܕܓܥܵܝܬܝܼ: ܡܲܠܟܝܼ ܘܐܲܠܵܗܝܼ: \nܣܵܒܵܒ̇ ܕܒܝܼܘܼܟ ܦܲܪܦܘܼܠܹܐ ܝܘܸ‍ܢ."
-        },
-        {
-            "verseNumberEn": "3",
-            "verseNumberAs": "ܓ",
-            "verseText": "ܡܵܪܝܵܐ: ܒܨܲܦܪܵܐ ܒܸܬ ܫܲܡܥܸܬ ܩܵܠܝܼ: \nܒܨܲܦܪܵܐ ܒܸܬ ܡܲܪܝܸܙܸ‍ܢ (ܨܠܘ̇ܬܝܼ) ܐܸܠܘܼܟ: ܘܒܸܬ ܩܵܙܕܸ‍ܢ."
-        },
-        {
-            "verseNumberEn": "4",
-            "verseNumberAs": "ܕ",
-            "verseText": "ܣܵܒܵܒ ܠܹܐ ܝܘܸܬ ܐܲܠܵܗܵܐ ܕܒܵܣܡܵܐ ܠܹܗ ܒܒܝܼܫܬܵܐ ܐܲܢ݇ܬ: \nܠܹܐ ܥܵܡܸܪ ܥܲܡܘܼܟ ܒܝܼܫܵܐ.",
-            "verseNote": "ܒܝܼܫܵܐ: ܝܲܢ ܒܝܼܫܬܵܐ."
-        },
-        {
-            "verseNumberEn": "5",
-            "verseNumberAs": "ܗ",
-            "verseText": "ܠܹܐ ܟܵܠܝܼ ܚܬܝܼܪܹ̈ܐ ܩܵܕ݇ܡ ܥܲܝܢܘܼ̈ܟ: \nܟܹܐ ܣܵܢܸܬ ܟܠܵܝ ܦܵܠܚܵܢܹ̈ܐ ܕܥܵܘܠܵܐ."
-        },
-        {
-            "verseNumberEn": "6",
-            "verseNumberAs": "ܘ",
-            "verseText": "ܟܹܐ ܬܵܠܩܸܬ ܗܲܡܙܸܡܵܢܹ̈ܐ ܕܕܘܼܓܠܵܐ: \nܡ̣ܢ ܐ݇ܢܵܫܵܐ ܕܕܸܡܹ̈ܐ ܘܦܸܠܡܵܐ ܟܹܐ ܓܲܢܓܸܨ ܡܵܪܝܵܐ."
-        },
-        {
-            "verseNumberEn": "7",
-            "verseNumberAs": "ܙ",
-            "verseText": "ܘܐܵܢܵܐ ܒܒܘܼܫܵܝܝܼ ܕܫܵܦܵܩܲܬܘܼܟ ܒܸܬ ܐܵܘܪܸ‍ܢ ܠܒܲܝܬܘܼܟ: \nܒܸܬ ܣܵܓ̣ܕܸ‍ܢ ܠܗܲܝܟܠܵܐ ܕܩܘܼܕܫܘܼܟ ܒܙܕܘܼܥܬܘܼܟ."
-        },
-        {
-            "verseNumberEn": "8",
-            "verseNumberAs": "ܚ",
-            "verseText": "ܝܵܐ ܡܵܪܝܵܐ: ܬܲܓܒܸܪܝܼ ܒܙܲܕܝܼܩܘܼܬܘܼܟ ܣܵܒܵܒ ܕܕܸܫܡܸܢܝܼ̈: \nܥܒ̣ܘܿܕ ܕܘܼܙ ܩܵܕ݇ܡܝܼ ܐܘܼܪܚܘܼܟ."
-        },
-        {
-            "verseNumberEn": "9",
-            "verseNumberAs": "ܛ",
-            "verseText": "ܣܵܒܵܒ ܕܠܲܝܬ ܒܦܘܼܡܵܝ ܬܪܘܼܨܘܼܬܵܐ: \nܓܵܘܵܝ ܒܝܼܫܘܼܝܵܬܹ̈ܐ: \nܩܲܒ̣ܪܵܐ ܦܬܝܼܚܬܵܐ ܒܵܠܘܿܥܬܵܝ: \nܠܸܫܵܢܵܝ ܟܹܐ ܡܲܟ̰ܥܝܼ."
-        },
-        {
-            "verseNumberEn": "10",
-            "verseNumberAs": "ܝ",
-            "verseText": "ܥܒ̣ܘܿܕ ܠܗ݇ܘܿܢ ܓܘܼܢܵܗܟܵܪ: ܐܲܠܵܗܵܐ: \nܢܵܦܠܝܼ ܡ̣ܢ ܪܵܐܝܵܝ: \nܒܒܘܼܫܵܝܝܼ ܕܢܵܐܗܲܩܵܝ ܚܲܪܙܸܦ ܠܗ݇ܘܿܢ: \nܣܵܒܵܒ ܕܗ݇ܘܹܠܘܿܢ ܥܵܨܝܼ ܥܲܠܘܼܟ."
-        },
-        {
-            "verseNumberEn": "11",
-            "verseNumberAs": "ܝܐ",
-            "verseText": "ܘܚܵܕܝܼ ܟܠܵܝ ܕܣܵܒܪܝܼ ܒܝܼܘܼܟ: \nܠܥܵܠܲܡ ܫܵܒܚܝܼ: ܘܟܵܣܸܬ ܥܲܠܵܝ: \nܘܦܵܨܚܝܼ ܒܝܼܘܼܟ ܡܲܚܸܒܵܢܹ̈ܐ ܕܫܸܡܘܼܟ."
-        },
-        {
-            "verseNumberEn": "12",
-            "verseNumberAs": "ܝܒ",
-            "verseText": "ܣܵܒܵܒ ܕܐܲܢ݇ܬ ܒܸܬ ܒܵܪܟܸܬ ܠܙܲܕܝܼܩܵܐ: \nܝܵܐ ܡܵܪܝܵܐ: ܐܲܝܟ ܩܲܠܚܵܢ ܫܵܦܵܩܲܬ ܒܸܬ ܡܲܚܕܸܪܸܬ ܐܸܠܹܗ."
-        }
-    ]
+  "chapterIntroAs": "ܠܪܹܫܵܐ ܕܙܵܡܵܪܹ̈ܐ: ܠܢܚܝܼܠܘܿܬ. ܡܲܙܡܘܿܪܵܐ ܕܕܵܘܝܼܕ.",
+  "chapterEn": "Psalm 5",
+  "chapterAs": "ܡܙܡܘܪܐ: ܗ.",
+  "verses": [
+    {
+      "verseNumberEn": "1",
+      "verseNumberAs": "ܐ",
+      "verseText": "ܠܗܹܡܸܙܡܵܢܝܼ̈ ܗܲܒ݇ܠ ܢܵܬܵܐ: ܝܵܐ ܡܵܪܝܵܐ: \nܦܲܪܡܝܼ ܗܵܓܵܝܬܝܼ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "2",
+      "verseNumberAs": "ܒ",
+      "verseText": "ܡܲܨܝܸܬ ܠܩܵܠܵܐ ܕܓܥܵܝܬܝܼ: ܡܲܠܟܝܼ ܘܐܲܠܵܗܝܼ: \nܣܵܒܵܒ̇ ܕܒܝܼܘܼܟ ܦܲܪܦܘܼܠܹܐ ܝܘܸ‍ܢ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "3",
+      "verseNumberAs": "ܓ",
+      "verseText": "ܡܵܪܝܵܐ: ܒܨܲܦܪܵܐ ܒܸܬ ܫܲܡܥܸܬ ܩܵܠܝܼ: \nܒܨܲܦܪܵܐ ܒܸܬ ܡܲܪܝܸܙܸ‍ܢ (ܨܠܘ̇ܬܝܼ) ܐܸܠܘܼܟ: ܘܒܸܬ ܩܵܙܕܸ‍ܢ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "4",
+      "verseNumberAs": "ܕ",
+      "verseText": "ܣܵܒܵܒ ܠܹܐ ܝܘܸܬ ܐܲܠܵܗܵܐ ܕܒܵܣܡܵܐ ܠܹܗ ܒܒܝܼܫܬܵܐ ܐܲܢ݇ܬ: \nܠܹܐ ܥܵܡܸܪ ܥܲܡܘܼܟ ܒܝܼܫܵܐ.",
+      "verseNote": "ܒܝܼܫܵܐ: ܝܲܢ ܒܝܼܫܬܵܐ.",
+      "isRedLetter": false
+    },
+    {
+      "verseNumberEn": "5",
+      "verseNumberAs": "ܗ",
+      "verseText": "ܠܹܐ ܟܵܠܝܼ ܚܬܝܼܪܹ̈ܐ ܩܵܕ݇ܡ ܥܲܝܢܘܼ̈ܟ: \nܟܹܐ ܣܵܢܸܬ ܟܠܵܝ ܦܵܠܚܵܢܹ̈ܐ ܕܥܵܘܠܵܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "6",
+      "verseNumberAs": "ܘ",
+      "verseText": "ܟܹܐ ܬܵܠܩܸܬ ܗܲܡܙܸܡܵܢܹ̈ܐ ܕܕܘܼܓܠܵܐ: \nܡ̣ܢ ܐ݇ܢܵܫܵܐ ܕܕܸܡܹ̈ܐ ܘܦܸܠܡܵܐ ܟܹܐ ܓܲܢܓܸܨ ܡܵܪܝܵܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "7",
+      "verseNumberAs": "ܙ",
+      "verseText": "ܘܐܵܢܵܐ ܒܒܘܼܫܵܝܝܼ ܕܫܵܦܵܩܲܬܘܼܟ ܒܸܬ ܐܵܘܪܸ‍ܢ ܠܒܲܝܬܘܼܟ: \nܒܸܬ ܣܵܓ̣ܕܸ‍ܢ ܠܗܲܝܟܠܵܐ ܕܩܘܼܕܫܘܼܟ ܒܙܕܘܼܥܬܘܼܟ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "8",
+      "verseNumberAs": "ܚ",
+      "verseText": "ܝܵܐ ܡܵܪܝܵܐ: ܬܲܓܒܸܪܝܼ ܒܙܲܕܝܼܩܘܼܬܘܼܟ ܣܵܒܵܒ ܕܕܸܫܡܸܢܝܼ̈: \nܥܒ̣ܘܿܕ ܕܘܼܙ ܩܵܕ݇ܡܝܼ ܐܘܼܪܚܘܼܟ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "9",
+      "verseNumberAs": "ܛ",
+      "verseText": "ܣܵܒܵܒ ܕܠܲܝܬ ܒܦܘܼܡܵܝ ܬܪܘܼܨܘܼܬܵܐ: \nܓܵܘܵܝ ܒܝܼܫܘܼܝܵܬܹ̈ܐ: \nܩܲܒ̣ܪܵܐ ܦܬܝܼܚܬܵܐ ܒܵܠܘܿܥܬܵܝ: \nܠܸܫܵܢܵܝ ܟܹܐ ܡܲܟ̰ܥܝܼ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "10",
+      "verseNumberAs": "ܝ",
+      "verseText": "ܥܒ̣ܘܿܕ ܠܗ݇ܘܿܢ ܓܘܼܢܵܗܟܵܪ: ܐܲܠܵܗܵܐ: \nܢܵܦܠܝܼ ܡ̣ܢ ܪܵܐܝܵܝ: \nܒܒܘܼܫܵܝܝܼ ܕܢܵܐܗܲܩܵܝ ܚܲܪܙܸܦ ܠܗ݇ܘܿܢ: \nܣܵܒܵܒ ܕܗ݇ܘܹܠܘܿܢ ܥܵܨܝܼ ܥܲܠܘܼܟ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "11",
+      "verseNumberAs": "ܝܐ",
+      "verseText": "ܘܚܵܕܝܼ ܟܠܵܝ ܕܣܵܒܪܝܼ ܒܝܼܘܼܟ: \nܠܥܵܠܲܡ ܫܵܒܚܝܼ: ܘܟܵܣܸܬ ܥܲܠܵܝ: \nܘܦܵܨܚܝܼ ܒܝܼܘܼܟ ܡܲܚܸܒܵܢܹ̈ܐ ܕܫܸܡܘܼܟ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "12",
+      "verseNumberAs": "ܝܒ",
+      "verseText": "ܣܵܒܵܒ ܕܐܲܢ݇ܬ ܒܸܬ ܒܵܪܟܸܬ ܠܙܲܕܝܼܩܵܐ: \nܝܵܐ ܡܵܪܝܵܐ: ܐܲܝܟ ܩܲܠܚܵܢ ܫܵܦܵܩܲܬ ܒܸܬ ܡܲܚܕܸܪܸܬ ܐܸܠܹܗ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    }
+  ]
 }

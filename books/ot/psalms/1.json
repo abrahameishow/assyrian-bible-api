@@ -1,37 +1,49 @@
 {
-	"bookInfoAs": "ܣܦܪܐ ܩܕ݇ܡܝܐ",
-	"chapterEn": "Psalm 1",
-	"chapterAs": "ܡܙܡܘܪܐ: ܐ.",
-	"verses": [
-		{
-			"verseNumberEn": "1",
-			"verseNumberAs": "ܐ",
-			"verseText": "ܛܘܼܒ̣ܵܐ ܠܐܢܵܫܵܐ ܕܠܵܐ ܚܕܸܪܹܐ ܒܪܵܐܝܝܼ ܕܒܝܼܫܹ̈ܐ: \nܘܒܐܘܼܪܚܵܐ ܕܚܲܛܵܝܹ̈ܐ ܠܵܐ ܟܠܹܠܹܐ: \nܘܒܡܵܘܬܒ̣ܵܐ ܕܡܲܣܚܸܪ̈ܵܢܹܐ ܠܵܐ ܝܬܸܒ̣ܠܹܐ."
-		},
-		{
-			"verseNumberEn": "2",
-			"verseNumberAs": "ܒ",
-			"verseText": "ܐܸܠܵܐ ܒܢܵܡܘܿܣܹܗ ܕܡܵܪܝܵܐ ܪܸܙܵܝܹܗ: \nܘܒܢܵܡܘܿܣܹܗ ܟܹܐ ܗܵܓܹܐ ܐܝܼܡܵܡܵܐ ܘܠܲܝܠܹܐ."
-		},
-		{
-			"verseNumberEn": "3",
-			"verseNumberAs": "ܓ",
-			"verseText": "ܘܒܸܬ ܗܵܘܹܐ ܐܲܝܟ ܐܝܼܠܵܢܵܐ ܫܬܝܼܠܵܐ ܥܲܠ ܫܵܩܝܼܵܬܹ̈ܐ ܕܡ̈ܝܼܵܐ: \nܕܛܥܘܼܢܬܘܼܗܝ ܟܹܐ ܝܵܗ݇ܒܸܠ ܒܙܲܒ̣ܢܘܼܗܝ: \nܘܛܲܪܦܹܗ ܠܹܐ ܟ̰ܵܡܸܟ̃: \nܘܟܠ ܕܥܵܒܸܕ ܟܹܐ ܡܲܢܬܹܐ."
-		},
-		{
-			"verseNumberEn": "4",
-			"verseNumberAs": "ܕ",
-			"verseText": "ܠܵܐ ܗܲܕܟ̣ܵܐ ܒܝܼܫܹ̈ܐ: \nܐܸܠܵܐ ܐܲܝܟ ܬܸܒ̣ܢܵܐ ܕܕܵܪܹܐ ܠܹܗ ܦܵܘܚܵܐ."
-		},
-		{
-			"verseNumberEn": "5",
-			"verseNumberAs": "ܗ",
-			"verseText": "ܒܘܼܬ ܕܐܵܗܵܐ: ܠܹܐ ܟܵܠܝܼ ܒܝܼܫܹ̈ܐ ܒܕܝܼܘܿܢ: \nܘܚܲܛܵܝܹ̈ܐ ܒܓ̰ܵܡܵܥܲܬ ܕܙܲܕܝܼܩܹ̈ܐ."
-		},
-		{
-			"verseNumberEn": "6",
-			"verseNumberAs": "ܘ",
-			"verseText": "ܣܵܒܵܒ̇ ܕܟܹܐ ܝܵܕܸܥ ܡܵܪܝܵܐ ܐܘܼܪܚܵܐ ܕܙܲܕܝܼܩܹ̈ܐ: \nܘܐܘܼܪܚܵܐ ܕܒܝܼܫܹ̈ܐ ܒܸܬ ܛܵܠܩܵܐ."
-		}
-	]
+  "bookInfoAs": "ܣܦܪܐ ܩܕ݇ܡܝܐ",
+  "chapterEn": "Psalm 1",
+  "chapterAs": "ܡܙܡܘܪܐ: ܐ.",
+  "verses": [
+    {
+      "verseNumberEn": "1",
+      "verseNumberAs": "ܐ",
+      "verseText": "ܛܘܼܒ̣ܵܐ ܠܐܢܵܫܵܐ ܕܠܵܐ ܚܕܸܪܹܐ ܒܪܵܐܝܝܼ ܕܒܝܼܫܹ̈ܐ: \nܘܒܐܘܼܪܚܵܐ ܕܚܲܛܵܝܹ̈ܐ ܠܵܐ ܟܠܹܠܹܐ: \nܘܒܡܵܘܬܒ̣ܵܐ ܕܡܲܣܚܸܪ̈ܵܢܹܐ ܠܵܐ ܝܬܸܒ̣ܠܹܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "2",
+      "verseNumberAs": "ܒ",
+      "verseText": "ܐܸܠܵܐ ܒܢܵܡܘܿܣܹܗ ܕܡܵܪܝܵܐ ܪܸܙܵܝܹܗ: \nܘܒܢܵܡܘܿܣܹܗ ܟܹܐ ܗܵܓܹܐ ܐܝܼܡܵܡܵܐ ܘܠܲܝܠܹܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "3",
+      "verseNumberAs": "ܓ",
+      "verseText": "ܘܒܸܬ ܗܵܘܹܐ ܐܲܝܟ ܐܝܼܠܵܢܵܐ ܫܬܝܼܠܵܐ ܥܲܠ ܫܵܩܝܼܵܬܹ̈ܐ ܕܡ̈ܝܼܵܐ: \nܕܛܥܘܼܢܬܘܼܗܝ ܟܹܐ ܝܵܗ݇ܒܸܠ ܒܙܲܒ̣ܢܘܼܗܝ: \nܘܛܲܪܦܹܗ ܠܹܐ ܟ̰ܵܡܸܟ̃: \nܘܟܠ ܕܥܵܒܸܕ ܟܹܐ ܡܲܢܬܹܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "4",
+      "verseNumberAs": "ܕ",
+      "verseText": "ܠܵܐ ܗܲܕܟ̣ܵܐ ܒܝܼܫܹ̈ܐ: \nܐܸܠܵܐ ܐܲܝܟ ܬܸܒ̣ܢܵܐ ܕܕܵܪܹܐ ܠܹܗ ܦܵܘܚܵܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "5",
+      "verseNumberAs": "ܗ",
+      "verseText": "ܒܘܼܬ ܕܐܵܗܵܐ: ܠܹܐ ܟܵܠܝܼ ܒܝܼܫܹ̈ܐ ܒܕܝܼܘܿܢ: \nܘܚܲܛܵܝܹ̈ܐ ܒܓ̰ܵܡܵܥܲܬ ܕܙܲܕܝܼܩܹ̈ܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "6",
+      "verseNumberAs": "ܘ",
+      "verseText": "ܣܵܒܵܒ̇ ܕܟܹܐ ܝܵܕܸܥ ܡܵܪܝܵܐ ܐܘܼܪܚܵܐ ܕܙܲܕܝܼܩܹ̈ܐ: \nܘܐܘܼܪܚܵܐ ܕܒܝܼܫܹ̈ܐ ܒܸܬ ܛܵܠܩܵܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    }
+  ]
 }

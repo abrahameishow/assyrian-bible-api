@@ -1,57 +1,77 @@
 {
-    "chapterIntroAs": "ܠܪܹܫܵܐ ܕܙܵܡܵܪܹ̈ܐ: ܒܢܓܝܼܢܘܿܬ: ܥܲܠ ܗܲܫܡܝܼܢܬ. ܡܲܙܡܘܿܪܵܐ ܕܕܵܘܝܼܕ.",
-    "chapterEn": "Psalm 6",
-    "chapterAs": "ܡܙܡܘܪܐ: ܘ.",
-    "verses": [
-        {
-            "verseNumberEn": "1",
-            "verseNumberAs": "ܐ",
-            "verseText": "ܡܵܪܝܵܐ: ܠܵܐ ܒܟܲܪܒܘܼܟ ܡܲܢܟܸܣܸܬ ܠܝܼ: \nܘܠܵܐ ܒܚܸܡܬܘܼܟ ܬܲܢܠܡܸܬ ܠܝܼ."
-        },
-        {
-            "verseNumberEn": "2",
-            "verseNumberAs": "ܒ",
-            "verseText": "ܥܒ̣ܘܿܕ ܟܵܪܲܡ ܥܲܠܝܼ: ܝܵܐ ܡܵܪܝܵܐ: ܣܵܒܵܒ̇ ܕܕܘܼܪܕܸܫܵܐ ܝܘܸ‍ܢ ܐܵܢܵܐ: \nܒܵܣܸܡ ܠܝܼ: ܝܵܐ ܡܵܪܝܵܐ: ܣܵܒܵܒ̇ ܕܪܥܸܠܘܿܢ ܓܲܪ̈ܡܝܼ."
-        },
-        {
-            "verseNumberEn": "3",
-            "verseNumberAs": "ܓ",
-            "verseText": "ܘܓܵܢܝܼ ܪܥܸܠܵܐ ܪܵܒܵܐ: \nܘܐܲܢ݇ܬ: ܝܵܐ ܡܵܪܝܵܐ: ܗܲܠ ܐܝܼܡܲܢ:"
-        },
-        {
-            "verseNumberEn": "4",
-            "verseNumberAs": "ܕ",
-            "verseText": "ܕܘܼܪ: ܝܵܐ ܡܵܪܝܵܐ: ܦܵܨܝܼ ܓܵܢܝܼ: \nܦܵܪܸܩ ܠܝܼ ܒܚܵܬܸܪ ܕܫܵܦܵܩܲܬܘܼܟ."
-        },
-        {
-            "verseNumberEn": "5",
-            "verseNumberAs": "ܗ",
-            "verseText": "ܣܵܒܵܒ̇ ܕܠܲܝܬ ܒܡܵܘܬܵܐ ܕܟ̣ܵܪܘܼܟ: \nܒܫܝܘܿܠ ܡܵܢܝܼ ܫܵܟܸܪܘܼܟ:"
-        },
-        {
-            "verseNumberEn": "6",
-            "verseNumberAs": "ܘ",
-            "verseText": " ܟܟ̰ܸܚܠܝܼ ܒܬܵܬܲܚܬܝܼ: \nܟܹܐ ܡܲܣܚܸܢ ܒܟܠܹܗ ܠܲܝܠܹܐ ܫܘܝܼܬܝܼ: \nܒܕܸܡܥܝܼܬܝܼ ܫܘܼܝܼܬܝܼ ܟܹܐ ܡܲܬܪܸ‍ܢ."
-        },
-        {
-            "verseNumberEn": "7",
-            "verseNumberAs": "ܙ",
-            "verseText": "ܢܘܸܠܵܐ ܡ̣ܢ ܚܲܫܵܐ ܥܲܝܢܝܼ: \nܥܘܼܬܩܸܢܵܐ ܒܟܠܵܝ ܕܸܫܡܸܢܝ̈."
-        },
-        {
-            "verseNumberEn": "8",
-            "verseNumberAs": "ܚ",
-            "verseText": "ܦܪܘܿܩܘܿܢ ܡܸܢܝܼ: ܟܠܵܝ ܦܵܠܚܵܢܹ̈ܐ ܕܥܵܘܠܵܐ: \nܣܵܒܵܒ̇ ܫܡܸܥܠܹܐ ܡܵܪܝܵܐ ܩܵܠܵܐ ܕܒܸܟ̣ܝܝܼ."
-        },
-        {
-            "verseNumberEn": "9",
-            "verseNumberAs": "ܛ",
-            "verseText": "ܫܡܸܥܠܹܐ ܡܵܪܝܵܐ ܢܵܘܢܵܝܬܝܼ: \nܡܵܪܝܵܐ ܦܲܪܦܲܠܬܝܼ ܒܸܬ ܩܵܒܸ̇ܠ."
-        },
-        {
-            "verseNumberEn": "10",
-            "verseNumberAs": "ܝ",
-            "verseText": "ܒܸܬ ܢܵܚܦܝܼ ܘܪܵܥܠܝܼ ܪܵܒܵܐ ܟܠܵܝ ܕܸܫܡܸܢܝܼ̈: \nܒܸܬ ܕܵܝܪܝܼ: ܒܸܬ ܢܵܚܦܝܼ ܡܸܢܫܸܠܬܵܢܹ̈ܐ."
-        }
-    ]
+  "chapterIntroAs": "ܠܪܹܫܵܐ ܕܙܵܡܵܪܹ̈ܐ: ܒܢܓܝܼܢܘܿܬ: ܥܲܠ ܗܲܫܡܝܼܢܬ. ܡܲܙܡܘܿܪܵܐ ܕܕܵܘܝܼܕ.",
+  "chapterEn": "Psalm 6",
+  "chapterAs": "ܡܙܡܘܪܐ: ܘ.",
+  "verses": [
+    {
+      "verseNumberEn": "1",
+      "verseNumberAs": "ܐ",
+      "verseText": "ܡܵܪܝܵܐ: ܠܵܐ ܒܟܲܪܒܘܼܟ ܡܲܢܟܸܣܸܬ ܠܝܼ: \nܘܠܵܐ ܒܚܸܡܬܘܼܟ ܬܲܢܠܡܸܬ ܠܝܼ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "2",
+      "verseNumberAs": "ܒ",
+      "verseText": "ܥܒ̣ܘܿܕ ܟܵܪܲܡ ܥܲܠܝܼ: ܝܵܐ ܡܵܪܝܵܐ: ܣܵܒܵܒ̇ ܕܕܘܼܪܕܸܫܵܐ ܝܘܸ‍ܢ ܐܵܢܵܐ: \nܒܵܣܸܡ ܠܝܼ: ܝܵܐ ܡܵܪܝܵܐ: ܣܵܒܵܒ̇ ܕܪܥܸܠܘܿܢ ܓܲܪ̈ܡܝܼ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "3",
+      "verseNumberAs": "ܓ",
+      "verseText": "ܘܓܵܢܝܼ ܪܥܸܠܵܐ ܪܵܒܵܐ: \nܘܐܲܢ݇ܬ: ܝܵܐ ܡܵܪܝܵܐ: ܗܲܠ ܐܝܼܡܲܢ:",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "4",
+      "verseNumberAs": "ܕ",
+      "verseText": "ܕܘܼܪ: ܝܵܐ ܡܵܪܝܵܐ: ܦܵܨܝܼ ܓܵܢܝܼ: \nܦܵܪܸܩ ܠܝܼ ܒܚܵܬܸܪ ܕܫܵܦܵܩܲܬܘܼܟ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "5",
+      "verseNumberAs": "ܗ",
+      "verseText": "ܣܵܒܵܒ̇ ܕܠܲܝܬ ܒܡܵܘܬܵܐ ܕܟ̣ܵܪܘܼܟ: \nܒܫܝܘܿܠ ܡܵܢܝܼ ܫܵܟܸܪܘܼܟ:",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "6",
+      "verseNumberAs": "ܘ",
+      "verseText": " ܟܟ̰ܸܚܠܝܼ ܒܬܵܬܲܚܬܝܼ: \nܟܹܐ ܡܲܣܚܸܢ ܒܟܠܹܗ ܠܲܝܠܹܐ ܫܘܝܼܬܝܼ: \nܒܕܸܡܥܝܼܬܝܼ ܫܘܼܝܼܬܝܼ ܟܹܐ ܡܲܬܪܸ‍ܢ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "7",
+      "verseNumberAs": "ܙ",
+      "verseText": "ܢܘܸܠܵܐ ܡ̣ܢ ܚܲܫܵܐ ܥܲܝܢܝܼ: \nܥܘܼܬܩܸܢܵܐ ܒܟܠܵܝ ܕܸܫܡܸܢܝ̈.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "8",
+      "verseNumberAs": "ܚ",
+      "verseText": "ܦܪܘܿܩܘܿܢ ܡܸܢܝܼ: ܟܠܵܝ ܦܵܠܚܵܢܹ̈ܐ ܕܥܵܘܠܵܐ: \nܣܵܒܵܒ̇ ܫܡܸܥܠܹܐ ܡܵܪܝܵܐ ܩܵܠܵܐ ܕܒܸܟ̣ܝܝܼ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "9",
+      "verseNumberAs": "ܛ",
+      "verseText": "ܫܡܸܥܠܹܐ ܡܵܪܝܵܐ ܢܵܘܢܵܝܬܝܼ: \nܡܵܪܝܵܐ ܦܲܪܦܲܠܬܝܼ ܒܸܬ ܩܵܒܸ̇ܠ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    },
+    {
+      "verseNumberEn": "10",
+      "verseNumberAs": "ܝ",
+      "verseText": "ܒܸܬ ܢܵܚܦܝܼ ܘܪܵܥܠܝܼ ܪܵܒܵܐ ܟܠܵܝ ܕܸܫܡܸܢܝܼ̈: \nܒܸܬ ܕܵܝܪܝܼ: ܒܸܬ ܢܵܚܦܝܼ ܡܸܢܫܸܠܬܵܢܹ̈ܐ.",
+      "isRedLetter": false,
+      "verseNote": ""
+    }
+  ]
 }
