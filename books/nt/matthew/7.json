@@ -5,70 +5,70 @@
         {
             "verseNumberEn": "1",
             "verseNumberAs": "ܐ",
-            "verseText": "",
+            "verseText": "<red>ܠܵܐ ܕܵܝܢܝܼܬܘܿܢ: ܕܠܵܐ ܦܵܝܫܝܼܬܘܿܢ ܕܝܼܢܹܐ.</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "2",
             "verseNumberAs": "ܒ",
-            "verseText": "",
+            "verseText": "<red>ܣܵܒܵܒ̇ ܕܒܕܝܼܘܵܢ ܕܕܵܝܢܝܼܬܘܿܢ: ܒܸܬ ܦܵܝܫܝܼܬܘܿܢ ܕܝܼܢܹܐ: ܘܒܟܝܵܠܬܵܐ ܕܟܵܝܠܝܼܬܘܿܢ: ܒܸܬ ܦܵܝܸܫ ܟܝܼܠܵܐ ܐܸܠܵܘܟ̣ܘܿܢ.</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "3",
             "verseNumberAs": "ܓ",
-            "verseText": "",
+            "verseText": "<red>ܘܩܵܡܘܿܕܝܼ ܒܸܚܙܵܝܵܐ ܝܘܸܬ ܓܸܠܵܐ ܕܒܥܲܝܢܹܗ ܕܐܵܚܘܿܢܘܼܟ: ܘܠܩܵܪܝܼܬܵܐ ܕܒܥܲܝܢܵܐ ܕܓܵܢܘܼܟ ܠܹܐ ܝܘܸܬ ܒܵܚܘܿܪܹܐ:</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "4",
             "verseNumberAs": "ܕ",
-            "verseText": "",
+            "verseText": "<red>ܝܲܢ ܕܵܐܟ̣ܝܼ ܒܹܐܡܵܪܵܐ ܝܘܸܬ ܠܐܵܚܘܿܢܘܼܟ: ܫܒ̣ܘܿܩ ܦܵܠܛܸܢ ܓܸܠܵܐ ܡ̣ܢ ܥܲܝܢܘܼܟ: ܘܗܵܐ ܩܵܪܝܼܬܵܐ ܒܥܲܝܢܵܐ ܕܓܵܢܘܼܟ:</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "5",
             "verseNumberAs": "ܗ",
-            "verseText": "",
+            "verseText": "<red>ܢܵܣܸܒ̣ ܒܐܲܦܹ̈ܐ: ܦܵܠܸܛ ܩܵܕ݇ܡܵܝܬܵܐ ܩܵܪܝܼܬܵܐ ܡ̣ܢ ܥܲܝܢܵܐ ܕܓܵܢܘܼܟ: ܘܗ̇ܝܓܵܗ ܨܸܦܝܵܐ ܒܸܬ ܚܵܙܸܬ ܠܦܵܠܘܿܛܹܐ ܓܸܠܵܐ ܡ̣ܢ ܥܲܝܢܹܗ ܕܐܵܚܘܿܢܘܼܟ.</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "6",
             "verseNumberAs": "ܘ",
-            "verseText": "",
+            "verseText": "<red>ܠܵܐ ܝܵܗ݇ܒ̣ܝܼܬܘܿܢ ܩܘܼܕܫܵܐ ܠܟܲܠܒܹ̈ܐ: ܘܠܵܐ ܕܵܪܝܼܬܘܿܢ ܡܲܪ̈ܓܵܢܬܵܘܟ̣ܘܿܢ ܩܵܕ݇ܡ ܚܙܘܼܪܹ̈ܐ: ܕܠܵܐ ܕܵܝܫܝܼ ܠܗ݇ܘܿܢ ܒܐܲܩܠܵܝ̈: ܘܕܵܝܪܝܼ ܘܟ̰ܼܿܢܟ̰ܸܪܝܼ ܠܵܘܟ̣ܘܿܢ.</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "7",
             "verseNumberAs": "ܙ",
-            "verseText": "",
+            "verseText": "<red>ܛܠܘܿܒܘܿܢ: ܘܒܸܬ ܦܵܝܸܫ ܝܘܼܗ݇ܒ̣ܵܐ ܐܸܠܵܘܟ̣ܘܿܢ: ܒܸܥܡܘܿܢ: ܘܒܸܬ ܡܵܫ݇ܟ̰ܚܝܼܬܘܿܢ: ܬܲܩܬܸܩܘܿܢ: ܘܒܸܬ ܦܵܝܸܫ ܦܬܝܼܚܵܐ ܐܸܠܵܘܟ̣ܘܿܢ.</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "8",
             "verseNumberAs": "ܚ",
-            "verseText": "",
+            "verseText": "<red>ܣܵܒܵܒ̇ ܟܠ ܕܛܵܠܸܒ: ܟܹܐ ܫܵܩܸܠ: ܘܗ̇ܘ ܕܒܲܥܝܹܐ: ܟܹܐ ܡܵܫ݇ܟ̰ܸܚ: ܘܠܲܐܝܢܝܼ ܕܬܲܩܬܸܩ: ܟܹܐ ܦܵܝܸܫ ܦܬܝܼܚܵܐ ܐܸܠܹܗ.</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "9",
             "verseNumberAs": "ܛ",
-            "verseText": "",
+            "verseText": "<red>ܝܲܢ ܡܵܢܝܼ ܝܠܹܐ ܡܸܢܵܘܟ̣ܘܿܢ ܐܢܵܫܵܐ ܕܛܵܠܸܒ ܡܸܢܹܗ ܒܪܘܼܢܹܗ ܠܲܚܡܵܐ: ܟܹܐܦܵܐ ܦܵܫܸܛ ܠܹܗ:</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
         {
             "verseNumberEn": "10",
             "verseNumberAs": "ܝ",
-            "verseText": "",
+            "verseText": "<red>ܘܐܸ‍ܢ ܢܘܼܢܵܐ ܛܵܠܸܒ ܡܸܢܹܗ: ܚܘܼܘܹܐ ܦܵܫܸܛ ܠܹܗ:</red>",
             "isRedLetter": false,
             "verseNote": ""
         },
