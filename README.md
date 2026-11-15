@@ -115,7 +115,7 @@ This text was published in 1893 and is in the Public Domain.
 ```sh
 {
   "chapterEn": "Chapter 1",
-  "chapterAs": "ܩܦܠܐܘܢ؛ ܐ",
+  "chapterAs": "ܩܦܠܐܘܢ: ܐ",
   "verses": [
     {
       "verseNumberEn": "1",
@@ -133,7 +133,7 @@ This text was published in 1893 and is in the Public Domain.
 ```sh
 {
   "chapterEn": "Chapter 1",
-  "chapterAs": "ܩܦܠܐܘܢ؛ ܐ",
+  "chapterAs": "ܩܦܠܐܘܢ: ܐ",
   "verses": [
     {
       "verseNumberEn": "1",
