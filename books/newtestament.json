@@ -1457,7 +1457,247 @@
         },
         {
           "en": "8",
-          "as": "ܚ"
+          "as": "ܚ",
+          "verses": [
+            {
+              "verseNumberEn": "1",
+              "verseNumberAs": "ܐ",
+              "verseText": "ܘܟܲܕ ܨܠܹܠܹܐ ܡ̣ܢ ܛܘܼܪܵܐ: ܬܒܸܥܠܘܿܢ ܐܸܠܹܗ ܟܸܢܫܹ̈ܐ ܪܵܒܵܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "2",
+              "verseNumberAs": "ܒ",
+              "verseText": "ܘܗܵܐ: ܚܵܕ݇ ܓܸܪܒ̣ܵܢܵܐ ܐܬܹܠܹܐ ܣܓܸܕܠܹܐ ܐܸܠܹܗ: ܘܐܡܸܪܹܐ: ܡܵܪܝܼ: ܐܸ‍ܢ ܒܲܥܝܸܬ: ܟܹܐ ܡܵܨܸܬ ܠܕܵܟ̣ܘܿܝܝܼ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "3",
+              "verseNumberAs": "ܓ",
+              "verseText": "ܘܝܼܫܘܿܥ ܦܘܼܫܛܵܠܹܐ ܐܝܼܕܹܗ ܕܩܸܪܹܐ ܒܝ̣ܹܗ: ܘܐܡܸܪܹܐ: <red>ܒܸܒܲܥܝܵܐ ܝܘܸ‍ܢ: ܦܘܼܫ ܕܸܟ̣ܝܵܐ.</red> ܘܕܲܪܣܵܥܲܬ ܕܟܹܠܹܐ ܓܸܪܒܹܗ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "4",
+              "verseNumberAs": "ܕ",
+              "verseText": "ܘܐܡܸܪܹܐ ܐܸܠܹܗ ܝܼܫܘܿܥ: <red>ܚܙܝܼ: ܕܠܐܢܵܫܵܐ ܠܵܐ ܐܵܡܪܸܬ: ܐܸܠܵܐ ܙܹܠ݇ܐ ܡܲܚܙܝܼ ܓܵܢܘܼܟ ܠܟܵܗܢܵܐ: ܘܡܲܩܪܸܒ̣ ܩܘܼܪܒܵܢܵܐ ܕܦܩܸܕܠܹܐ ܡܘܼܫܹܐ ܠܣܵܗܕܘܼܬܵܝ.</red>",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "5",
+              "verseNumberAs": "ܗ",
+              "verseText": "ܘܟܲܕ ܐܘܸܪܹܐ ܝܼܫܘܿܥ ܠܟܦܲܪܢܵܚܘܿܡ: ܐܬܹܠܹܐ ܠܟܸܣܠܹܗ ܚܵܕ݇ ܩܸܢܛܪܘܿܢܵܐ: ܘܦܲܪܦܸܠ ܗ݇ܘܵܐ ܒܝ̣ܹܗ:",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "6",
+              "verseNumberAs": "ܘ",
+              "verseText": "ܘܐܵܡܸܪ: ܡܵܪܝܼ: ܝܵܠܝܼ ܕܸܪܝܵܐ ܝܠܹܐ ܒܒܲܝܬܵܐ: ܫܦܝܼܠܵܐ: ܘܣܸܪܝܵܐ ܦܝܵܫܵܐ ܓ̰ܘܼܢܓ̰ܸܪܵܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "7",
+              "verseNumberAs": "ܙ",
+              "verseText": "ܐܵܡܸܪ ܐܸܠܹܗ ܝܼܫܘܿܥ: <red>ܐܵܢܵܐ ܒܸܬ ܐܵܬܸ‍ܢ ܘܒܸܬ ܒܵܣܡܸܢܹܗ.</red>",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "8",
+              "verseNumberAs": "ܚ",
+              "verseText": "ܓ̰ܘܼܘܸܒܠܹܐ ܩܸܢܛܪܘܿܢܵܐ ܘܐܡܸܪܹܐ: ܡܵܪܝܼ: ܠܹܐ ܚܵܫܚܸܢ ܕܐܵܘܪܸܬ ܬܚܘܿܬ ܫܟܘܼܪܝܼ: ܐܸܠܵܐ ܗܲܪ ܐܡܘܿܪ ܒܗܹܡܸܙܡܵܢ: ܘܒܸܬ ܒܵܣܸܡ ܝܵܠܝܼ.",
+              "isRedLetter": false,
+              "verseNote": "ܝܵܠܝܼ: ܝܲܢ ܪܹܓܝܼ"
+            },
+            {
+              "verseNumberEn": "9",
+              "verseNumberAs": "ܛ",
+              "verseText": "ܣܵܒܵܒ̇ ܐܘܼܦ ܐܵܢܵܐ ܐܢܵܫܵܐ ܝܘܸ‍ܢ ܬܚܘܿܬ ܗܘܼܟܡܵܐ: ܘܐܝܼܬ ܬܚܘܿܬ ܐܝܼܕܝܼ̈ ܣܲܪ̈ܒܵܙܹܐ: ܘܟܹܐ ܐܵܡܪܸ‍ܢ ܠܐܵܗܵܐ: ܙܹܠ݇ܐ: ܘܟܹܐ ܐܵܙܸܠ: ܘܠܗ̇ܘ ܐܚܹܪ݇ܢܵܐ: ܬܵܐ: ܘܟܹܐ ܐܵܬܹܐ: ܘܠܪܹܓܝܼ: ܥܒ̣ܘܿܕ ܐܵܗܵܐ: ܘܟܹܐ ܥܵܒܸܕ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "10",
+              "verseNumberAs": "ܝ",
+              "verseText": "ܘܟܲܕ ܫܡܸܥܠܹܐ ܝܼܫܘܿܥ: ܥܘܼܓ̰ܸܒܠܹܐ: ܘܐܡܸܪܹܐ ܠܐܵܢܝܼ ܕܒܹܐܬܵܝܵܐ ܗ݇ܘܵܘ ܥܲܡܹܗ: <red>ܬܪܘܼܨܵܐ ܒܹܐܡܵܪܵܐ ܝܘܸ‍ܢ ܐܸܠܵܘܟ̣ܘܿܢ: ܐܘܼܦ ܓܵܘ ܝܼܣܪܵܝܹܠ ܠܵܐ ܡܘܼܫ݇ܟ̰ܸܚܠܝܼ ܐܲܝܟ ܕܐܵܗܵܐ ܗܲܝܡܵܢܘܼܬܵܐ.</red>",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "11",
+              "verseNumberAs": "ܝܐ",
+              "verseText": "<red>ܘܐܵܢܵܐ ܒܹܐܡܵܪܵܐ ܝܘܸ‍ܢ ܐܸܠܵܘܟ̣ܘܿܢ: ܕܪܵܒܵܐ ܒܸܬ ܐܵܬܝܼ ܡ̣ܢ ܡܲܕܢܚܵܐ ܘܡ̣ܢ ܡܲܥܪܒ̣ܵܐ: ܘܒܸܬ ܝܵܬܒ̣ܝܼ ܥܲܡ ܐܲܒ̣ܪܵܗܵܡ ܘܐܝܼܣܚܵܩ ܘܝܲܥܩܘܿܒ̣ ܒܡܲܠܟܘܼܬܵܐ ܕܫܡܲܝܵܐ:</red>",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "12",
+              "verseNumberAs": "ܝܒ",
+              "verseText": "<red>ܐܝܼܢܵܐ ܒܢܘܼܢܹ̈ܐ ܕܡܲܠܟܘܼܬܵܐ ܒܸܬ ܦܵܠܛܝܼ ܠܚܘܼܒ̣ܝܵܐ ܒܲܪܵܝܵܐ: ܬܵܡܵܐ ܒܸܬ ܗܵܘܹܐ ܒܸܟ̣ܝܵܐ ܘܚܲܪܚܲܟ̰ܬܵܐ ܕܟܹܟܹ̈ܐ.</red>",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "13",
+              "verseNumberAs": "ܝܓ",
+              "verseText": "ܘܐܡܸܪܹܐ ܝܼܫܘܿܥ ܠܗ̇ܘ ܩܸܢܛܪܘܿܢܵܐ: <red>ܙܹܠ݇ܐ: ܕܵܟ̣ܝܼ ܕܗܘܼܡܸܢܘܼܟ: ܗܵܘܹܐ ܠܘܼܟ.</red> ܘܒܣܸܡܠܹܐ ܝܵܠܹܗ ܒܗ̇ܝ ܣܵܥܲܬ.",
+              "isRedLetter": false,
+              "verseNote": "ܝܵܠܹܗ: ܝܲܢ ܪܹܓܹܗ"
+            },
+            {
+              "verseNumberEn": "14",
+              "verseNumberAs": "ܝܕ",
+              "verseText": "ܘܐܬܹܠܹܐ ܝܼܫܘܿܥ ܠܒܲܝܬܹܗ ܕܟܹܐܦܵܐ: ܘܚܙܹܠܹܐ ܠܚܡܵܬܹܗ ܕܡܝܼܟ̣ܬܵܐ ܘܕܒ̣ܝܼܩܬܘܼܗ̇ ܐܫܵܬܵܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "15",
+              "verseNumberAs": "ܝܗ",
+              "verseText": "ܘܕܩܸܪܹܐ ܒܐܝܼܕܵܗ̇ ܘܫܒ̣ܝܼܩܵܠܵܐ ܐܫܵܬܵܐ: ܘܩܸܡܠܵܐ ܘܥܵܒ̣ܕܵܐ ܗ݇ܘܵܐ ܠܗ݇ܘܿܢ ܚܸܠܡܲܬ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "16",
+              "verseNumberAs": "ܝܘ",
+              "verseText": "ܘܟܲܕ ܗ݇ܘܹܠܹܐ ܪܲܡܫܵܐ: ܡܘܼܬ݇ܝܹܠܘܿܢ ܩܵܕ݇ܡܘܼܗܝ ܕܲܝܘܵܢܹ̈ܐ ܪܵܒܵܐ: ܘܦܘܼܠܸܛܠܹܐ ܕܲܝܘܹ̈ܐ ܒܗܹܡܸܙܡܵܢ: ܘܠܟܠܵܝ ܐܵܢܝܼ ܕܣܸܪܝܵܐ ܡܸܪܥܝܹܐ ܗ݇ܘܵܘ ܒܘܼܣܸܡܠܹܐ:",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "17",
+              "verseNumberAs": "ܝܙ",
+              "verseText": "ܕܦܵܝܸܫ ܬܘܼܡܸܡܵܐ ܡܸܢܕܝܼ ܕܦܸܫܠܹܐ ܐܡܝܼܪܵܐ ܒܝ̣ܸܕ ܐܹܫܲܥܝܵܐ ܢܒ̣ܝܼܵܐ: ܕܐܡܸܪܹܐ: ܗ̇ܘ ܫܩܸܠܹܐ ܕܲܪ̈ܕܲ‍ܢ ܘܡܲܪ̈ܥܲܢ ܛܥܸܢܹܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "18",
+              "verseNumberAs": "ܝܚ",
+              "verseText": " ܘܟܲܕ ܚܙܹܠܹܐ ܝܼܫܘܿܥ ܟܸܢܫܹ̈ܐ ܪܵܒܵܐ ܠܚܵܕܸܪ̈ܘܵܢܘܼܗܝ: ܦܩܸܕܠܹܐ ܕܐܵܙܠ݇ܝܼ ܠܗ̇ܘ ܡܲܪܙܵܐ ܐܚܹܪ݇ܢܵܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "19",
+              "verseNumberAs": "ܝܛ",
+              "verseText": "ܘܐܬܹܠܹܐ ܚܵܕ݇ ܣܵܦܪܵܐ ܘܐܡܸܪܹܐ ܐܸܠܹܗ: ܪܵܒܝܼ: ܒܸܬ ܐܵܬܸ‍ܢ ܒܵܬ݇ܪܘܼܟ ܠܐܲܝܟܵܐ ܕܐܵܙܸܠ݇ܬ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "20",
+              "verseNumberAs": "ܟ",
+              "verseText": "ܐܵܡܸܪ ܐܸܠܹܗ ܝܼܫܘܿܥ: <red>ܬܲܥܠܹ̈ܐ ܒܸܙܥܵܙܹ̈ܐ ܐܝܼܬ ܠܗ݇ܘܿܢ: ܘܛܲܝܪܹ̈ܐ ܕܫܡܲܝܵܐ ܕܘܼܟܵܢܹ̈ܐ ܕܫܪܵܝܬܵܐ: ܐܝܼܢܵܐ ܒܪܘܼܢܹܗ ܕܐܢܵܫܵܐ ܠܲܝܬ ܠܹܗ ܕܘܼܟܵܐ ܕܡܲܬܸܒ̣ ܪܹܫܹܗ.</red>",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "21",
+              "verseNumberAs": "ܟܐ",
+              "verseText": "ܘܚܵܕ݇ ܐܚܹܪ݇ܢܵܐ ܡ̣ܢ ܬܲܠܡܝܼܕܘܼ̈ܗܝ ܐܡܸܪܹܐ ܐܸܠܹܗ: ܡܵܪܝܼ: ܗܲܒ݇ܠ ܠܝܼ ܕܲܣܬܘܼܪ ܩܵܕ݇ܡܵܝܬܵܐ ܕܐܵܙܸܠ݇ܢ ܩܵܒ̣ܪܸ‍ܢ ܠܒܵܒܝܼ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "22",
+              "verseNumberAs": "ܟܒ",
+              "verseText": "ܐܝܼܢܵܐ ܝܼܫܘܿܥ ܐܡܸܪܹܐ ܐܸܠܹܗ: <red>ܬܵܐ ܒܵܬ݇ܪܝܼ: ܘܫܒ̣ܘܿܩ ܡܝܼܬܹ̈ܐ ܩܵܒ̣ܪܝܼ ܡܝܼܬܵܝ̈.</red>",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "23",
+              "verseNumberAs": "ܟܓ",
+              "verseText": "ܘܟܲܕ ܐܣܸܩܠܹܐ ܝܼܫܘܿܥ ܠܓܵܡܝܼ: ܐܙܸܠܘܿܢ ܒܵܬ݇ܪܹܗ ܬܲܠܡܝܼܕܘܼ̈ܗܝ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "24",
+              "verseNumberAs": "ܟܕ",
+              "verseText": "ܘܗܵܐ: ܫܥܵܫܵܐ ܓܘܼܪܵܐ ܗ݇ܘܹܠܹܐ ܒܝܵܡܵܐ: ܕܵܐܟ̣ܝܼ ܕܓܵܡܝܼ ܦܵܝܫܵܐ ܗ݇ܘܵܐ ܟܘܼܣܝܼܬܵܐ ܡ̣ܢ ܠܲܦܹ̈ܐ: ܐܝܼܢܵܐ ܗ̇ܘ ܕܡܝܼܟ̣ܵܐ ܗ݇ܘܵܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "25",
+              "verseNumberAs": "ܟܗ",
+              "verseText": "ܘܐܬܹܠܘܿܢ ܬܲܠܡܝܼܕܘܼ̈ܗܝ ܕܡܲܪܥܸܫܝܼ ܗ݇ܘܵܘ ܠܹܗ: ܒܹܐܡܵܪܵܐ: ܡܵܪܲ‍ܢ: ܦܵܨܝܼ ܠܲܢ: ܒܸܬܠܵܩܵܐ ܝܘܵܚ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "26",
+              "verseNumberAs": "ܟܘ",
+              "verseText": "ܘܐܵܡܸܪ ܐܸܠܵܝ ܝܼܫܘܿܥ: <red>ܩܵܡܘܿܕܝܼ ܙܵܕܘܿܥܝܹ̈ܐ ܝܬܘܿܢ: ܝܵܐ ܟܝܼܡ ܗܲܝܡܵܢܘܼܬܵܐ:</red> ܗ̇ܝܓܵܗ ܩܸܡܠܹܐ ܘܢܓ̰ܸܘܠܹܐ ܒܦܵܘܚܵܐ ܘܒܝܵܡܵܐ: ܘܗ݇ܘܹܠܹܐ ܫܠܵܝܵܐ ܓܘܼܪܵܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "27",
+              "verseNumberAs": "ܟܙ",
+              "verseText": "ܐܝܼܢܵܐ ܐܢܵܫܹ̈ܐ ܥܘܼܓ̰ܸܒܠܘܿܢ: ܒܹܐܡܵܪܵܐ: ܕܵܐܟ̣ܝܼ ܐܢܵܫܵܐ ܝܠܹܐ ܐܵܗܵܐ ܕܐܘܼܦ ܦܵܘܚܹ̈ܐ ܘܝܵܡܵܐ ܡܲܨܝܘܼܬܹܐ ܝܢܵܐ ܐܸܠܹܗ:",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "28",
+              "verseNumberAs": "ܟܚ",
+              "verseText": "ܘܟܲܕ ܐܬܹܠܹܐ ܝܼܫܘܿܥ ܠܡܲܪܙܵܐ ܐܚܹܪ݇ܢܵܐ ܠܐܲܬܪܵܐ ܕܓܸܕܪ̈ܵܝܹܐ: ܬܦܸܩܠܘܿܢ ܒܝ̣ܹܗ ܬܪܲܝ ܕܲܝܘܵܢܹ̈ܐ ܒܸܦܠܵܛܵܐ ܡ̣ܢ ܒܹܝܬ ܩܒ̣ܘܼܪܹ̈ܐ: ܨܪ̈ܝܼܚܹܐ ܪܵܒܵܐ: ܗܲܕܟ̣ܵܐ ܕܐܢܵܫܵܐ ܠܹܐ ܡܵܨܹܐ ܕܥܵܒܸܪ ܗ݇ܘܵܐ ܒܗ̇ܝ ܐܘܼܪܚܵܐ.",
+              "isRedLetter": false,
+              "verseNote": "ܕܓܸܕܪ̈ܵܝܹܐ: ܚܟܡܐ ܐܨܚ̈. ܝܘܢ̈‍.-ܕܓܸܪ̈ܵܣܹܝܢܹܐ"
+            },
+            {
+              "verseNumberEn": "29",
+              "verseNumberAs": "ܟܛ",
+              "verseText": "ܘܗܵܐ: ܡܘܼܩܘܸܚܠܘܿܢ ܒܹܐܡܵܪܵܐ: ܡܵܐ ܠܘܼܟ ܡܸܢܲܢ: ܝܼܫܘܿܥ ܒܪܘܼܢܹܗ ܕܐܲܠܵܗܵܐ: ܐܬܹܠܘܼܟ ܠܲܐܟ̣ܵܐ ܡܩܵܕ݇ܡ ܙܲܒ̣ܢܵܐ ܠܓ̰ܼܿܢܓ̰ܘܼܪܲ‍ܢ:",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "30",
+              "verseNumberAs": "ܠ",
+              "verseText": "ܐܝܼܢܵܐ ܐܝܼܬ ܗ݇ܘܵܐ ܪܸܚܩܵܐ ܡܸܢܵܝ: ܒܲܩܪܵܐ ܕܚܙܘܼܪܹ̈ܐ ܪܵܒܵܐ ܕܒܸܪܥܵܝܵܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "31",
+              "verseNumberAs": "ܠܐ",
+              "verseText": "ܘܐܵܢܝܼ ܕܲܝܘܹ̈ܐ ܦܘܼܪܦܸܠܘܿܢ ܒܝ̣ܹܗ: ܒܹܐܡܵܪܵܐ: ܐܸ‍ܢ ܦܵܠܛܸܬ ܠܲܢ: ܗܲܒ݇ܠ ܠܲܢ ܕܲܣܬܘܼܪ ܕܐܵܙܵܠ݇ܚ ܓܵܘ ܒܲܩܪܵܐ ܕܚܙܘܼܪܹ̈ܐ.",
+              "isRedLetter": false,
+              "verseNote": "ܗܲܒ݇ܠ ܠܲܢ: ܝܘܢܐܝܬ: ܫܵܕܸܪܲ‍ܢ ܓܵܘ"
+            },
+            {
+              "verseNumberEn": "32",
+              "verseNumberAs": "ܠܒ",
+              "verseText": "ܐܵܡܸܪ ܐܸܠܵܝ ܝܼܫܘܿܥ: <red>ܙܹܠ݇ܡܘܿܢ: ܘܦܠܸܛܠܘܿܢ</red> ܘܐܘܸܪܘܿܢ ܓܵܘ ܚܙܘܼܪܹ̈ܐ: ܘܗܵܐ: ܟܠܵܗ̇ ܒܲܩܪܵܐ ܪܚܸܛܠܵܐ ܠܫܸܢܵܐ ܠܸܐܠܬܸܚ ܒܝܵܡܵܐ: ܘܡܸܬܠܘܿܢ ܒܡ̈ܝܼܵܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "33",
+              "verseNumberAs": "ܠܓ",
+              "verseText": "ܐܝܼܢܵܐ ܐܵܢܝܼ ܕܡܲܪܥܘܼܝܹܐ ܗ݇ܘܵܘ ܥܪܸܩܠܘܿܢ ܘܐܙܸܠܘܿܢ ܠܡܕܝܼܢ݇ܬܵܐ: ܘܡܘܼܕܸܥܠܘܿܢ ܟܠ ܡܸܢܕܝܼ: ܘܗ̇ܝ ܕܗ݇ܘܹܠܵܐ ܠܕܲܝܘܵܢܹ̈ܐ.",
+              "isRedLetter": false,
+              "verseNote": ""
+            },
+            {
+              "verseNumberEn": "34",
+              "verseNumberAs": "ܠܕ",
+              "verseText": "ܘܗܵܐ: ܦܠܸܛܠܵܐ ܟܠܵܗ̇ ܡܕܝܼܢ݇ܬܵܐ ܠܐܘܼܪܚܹܗ ܕܝܼܫܘܿܥ: ܘܟܲܕ ܚܙܹܠܘܿܢ ܐܸܠܹܗ: ܦܘܼܪܦܸܠܘܿܢ ܒܝ̣ܹܗ ܕܫܵܢܹܐ ܡ̣ܢ ܬܸܚܘܼܒܵܝ̈.",
+              "isRedLetter": false,
+              "verseNote": ""
+            }
+          ]
         },
         {
           "en": "9",
